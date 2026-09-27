@@ -3,37 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aplikasi Kamus Multilingual</title>
+    <title>Kamus Digital Jawa - Indonesia</title>
     <link rel="stylesheet" href="style.css">
+    <!-- Menggunakan Font Awesome untuk ikon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <div class="app-container">
+    <div class="container">
         <header>
-            <h1>Kamus Indonesia - Jawa</h1>
-            <p>Pencarian terintegrasi dari berbagai sumber kamus.</p>
+            <h1>Kamus Digital Jawa <span>&</span> Indonesia</h1>
+            <p>Pencarian komprehensif terintegrasi</p>
         </header>
 
         <main>
             <div class="search-section">
-                <div class="input-wrapper">
-                    <input type="text" id="searchInput" placeholder="Ketik kata dalam bahasa Indonesia atau Jawa...">
-                    <button id="clearBtn" title="Hapus pencarian">&times;</button>
+                <div class="search-box">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="searchInput" placeholder="Ketik kata bahasa Jawa atau Indonesia di sini..." autocomplete="off">
+                    <button id="clearBtn" class="clear-btn" title="Hapus teks"><i class="fas fa-times"></i></button>
+                </div>
+                
+                <div class="filter-section">
+                    <span class="filter-label">Mode Pencarian:</span>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-target="all">Semua Kamus</button>
+                        <button class="filter-btn" data-target="kamus1">Kamus 1</button>
+                        <button class="filter-btn" data-target="kamus2">Kamus 2</button>
+                        <button class="filter-btn" data-target="kamus3">Kamus 3</button>
+                    </div>
                 </div>
             </div>
 
-            <div class="filter-section">
-                <button class="filter-btn active" data-target="all">Semua Kamus</button>
-                <button class="filter-btn" data-target="kamus1">Kamus 1</button>
-                <button class="filter-btn" data-target="kamus2">Kamus 2</button>
-                <button class="filter-btn" data-target="kamus3">Kamus 3</button>
+            <div id="loading" class="loading hidden">
+                <i class="fas fa-circle-notch fa-spin"></i> Memuat data kamus...
             </div>
 
-            <div id="loadingIndicator" class="hidden">Memuat data kamus...</div>
-            <div id="resultsContainer" class="results-grid"></div>
+            <div id="resultsContainer" class="results-container">
+                <!-- Hasil pencarian akan dirender di sini oleh JavaScript -->
+                <div class="empty-state">
+                    <i class="fas fa-book-open"></i>
+                    <p>Mulai mengetik untuk mencari kosakata.</p>
+                </div>
+            </div>
         </main>
     </div>
 
     <script src="script.js"></script>
 </body>
-  </html>
-  
+</html>

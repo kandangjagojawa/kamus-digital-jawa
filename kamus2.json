@@ -1,0 +1,5732 @@
+[
+  {
+    "indonesia": "Makan",
+    "kramaalus": "Nedha",
+    "kramainggil": "Dhahar",
+    "ngoko": "Mangan"
+  },
+  {
+    "indonesia": "Tidur",
+    "kramaalus": "Tilem",
+    "kramainggil": "Sare",
+    "ngoko": "Turu"
+  },
+  {
+    "indonesia": "Perintah",
+    "kramaalus": "Aba",
+    "kramainggil": "Dhawuh",
+    "ngoko": "Aba"
+  },
+  {
+    "indonesia": "Diperintah",
+    "kramaalus": "Dipun abani",
+    "kramainggil": "Dipun dhawuhi",
+    "ngoko": "Diabani"
+  },
+  {
+    "indonesia": "Memerintah",
+    "kramaalus": "Ngabani",
+    "kramainggil": "Ndhawuhi",
+    "ngoko": "Ngabani"
+  },
+  {
+    "indonesia": "Pelana",
+    "kramaalus": "Abah-abah",
+    "kramainggil": "Kambil",
+    "ngoko": "Abah-abah"
+  },
+  {
+    "indonesia": "Merah",
+    "kramaalus": "Abrit",
+    "kramainggil": "Abrit",
+    "ngoko": "Abang"
+  },
+  {
+    "indonesia": "Terbang",
+    "kramaalus": "Abur",
+    "kramainggil": "Abur",
+    "ngoko": "Abur"
+  },
+  {
+    "indonesia": "Terbang",
+    "kramaalus": "Mabur",
+    "kramainggil": "Mabur",
+    "ngoko": "Mabur"
+  },
+  {
+    "indonesia": "Berat",
+    "kramaalus": "Awrat",
+    "kramainggil": "Awrat",
+    "ngoko": "Abot"
+  },
+  {
+    "indonesia": "Memberatkan",
+    "kramaalus": "Ngawrat-awrati",
+    "kramainggil": "Ngawrat-awrati",
+    "ngoko": "Ngabot-aboti"
+  },
+  {
+    "indonesia": "Keberatan",
+    "kramaalus": "Kawratan",
+    "kramainggil": "Kawratan",
+    "ngoko": "Kabotan"
+  },
+  {
+    "indonesia": "Menanak nasi",
+    "kramaalus": "Bethak",
+    "kramainggil": "Bethak",
+    "ngoko": "Adang"
+  },
+  {
+    "indonesia": "Takaran beras",
+    "kramaalus": "Bethakan",
+    "kramainggil": "Bethakan",
+    "ngoko": "Dangan"
+  },
+  {
+    "indonesia": "Hasil Nanak Nasi",
+    "kramaalus": "Bethakan",
+    "kramainggil": "Bethakan",
+    "ngoko": "Dang-dangan "
+  },
+  {
+    "indonesia": "Berdiri",
+    "kramaalus": "Adeg",
+    "kramainggil": "Jumeneng",
+    "ngoko": "Adeg"
+  },
+  {
+    "indonesia": "Berdiri",
+    "kramaalus": "Ngadeg",
+    "kramainggil": "Jumeneng",
+    "ngoko": "Ngadeg"
+  },
+  {
+    "indonesia": "Sambil Beridiri",
+    "kramaalus": "Adeg-adegan",
+    "kramainggil": "Jumenengan",
+    "ngoko": "Adeg-adegan"
+  },
+  {
+    "indonesia": "Manja",
+    "kramaalus": "Adi-adi",
+    "kramainggil": "Adi-adi",
+    "ngoko": "Adi-adi"
+  },
+  {
+    "indonesia": "Bermanja",
+    "kramaalus": "Ngadi-gadi",
+    "kramainggil": "Ngadi-gadi",
+    "ngoko": "Ngadi-gadi"
+  },
+  {
+    "indonesia": "Jauh",
+    "kramaalus": "Tebih",
+    "kramainggil": "Tebih",
+    "ngoko": "Adoh"
+  },
+  {
+    "indonesia": "Menjauh",
+    "kramaalus": "Nebih",
+    "kramainggil": "Nebih",
+    "ngoko": "Ngadoh"
+  },
+  {
+    "indonesia": "Terlalu jauh",
+    "kramaalus": "Ketebihen",
+    "kramainggil": "Ketebihen",
+    "ngoko": "Kadohan"
+  },
+  {
+    "indonesia": "Jual",
+    "kramaalus": "Sade",
+    "kramainggil": "Sade",
+    "ngoko": "Adol"
+  },
+  {
+    "indonesia": "Menjual",
+    "kramaalus": "Nyade",
+    "kramainggil": "Nyade",
+    "ngoko": "Ngedol"
+  },
+  {
+    "indonesia": "Sabungan",
+    "kramaalus": "Aben",
+    "kramainggil": "Aben",
+    "ngoko": "Adon"
+  },
+  {
+    "indonesia": "Sabungan",
+    "kramaalus": "Abenan",
+    "kramainggil": "Abenan",
+    "ngoko": "Adon"
+  },
+  {
+    "indonesia": "Sabungan",
+    "kramaalus": "Aben-aben",
+    "kramainggil": "Aben-aben",
+    "ngoko": "Adon-adon"
+  },
+  {
+    "indonesia": "Menyabung",
+    "kramaalus": "Aben",
+    "kramainggil": "Aben",
+    "ngoko": "Adu"
+  },
+  {
+    "indonesia": "Berhadapan",
+    "kramaalus": "Aben Ajeng",
+    "kramainggil": "Aben Ajeng",
+    "ngoko": "Adu Arep"
+  },
+  {
+    "indonesia": "Mengadukan",
+    "kramaalus": "Aben-aben",
+    "kramainggil": "Aben-aben",
+    "ngoko": "Adu-adu"
+  },
+  {
+    "indonesia": "Menyambung",
+    "kramaalus": "Ngaben",
+    "kramainggil": "Ngaben",
+    "ngoko": "Ngedu"
+  },
+  {
+    "indonesia": "Bertengkar",
+    "kramaalus": "Paben",
+    "kramainggil": "Paben",
+    "ngoko": "Padu"
+  },
+  {
+    "indonesia": "Mandi",
+    "kramaalus": "Adus",
+    "kramainggil": "Siram",
+    "ngoko": "Adus"
+  },
+  {
+    "indonesia": "Tempat mandi",
+    "kramaalus": "Padusan",
+    "kramainggil": "Pasiraman",
+    "ngoko": "Padusan"
+  },
+  {
+    "indonesia": "Mandi sebelum puasa",
+    "kramaalus": "Padusan",
+    "kramainggil": "Siraman",
+    "ngoko": "Padusan"
+  },
+  {
+    "indonesia": "Dingin",
+    "kramaalus": "Asrep",
+    "kramainggil": "Asrep",
+    "ngoko": "Adhem"
+  },
+  {
+    "indonesia": "Kedinginan",
+    "kramaalus": "Kasrepen",
+    "kramainggil": "Kasrepen",
+    "ngoko": "Kadhemen"
+  },
+  {
+    "indonesia": "Demam",
+    "kramaalus": "Asrep benter",
+    "kramainggil": "Asrep benter",
+    "ngoko": "Adhem panas"
+  },
+  {
+    "indonesia": "Hadap",
+    "kramaalus": "Ajeg",
+    "kramainggil": "Ajeg",
+    "ngoko": "Adhep"
+  },
+  {
+    "indonesia": "Menghadap",
+    "kramaalus": "Majeng",
+    "kramainggil": "Majeng",
+    "ngoko": "Madep"
+  },
+  {
+    "indonesia": "Berhadapan",
+    "kramaalus": "Ajeng-ajengan",
+    "kramainggil": "Ajeng-ajengan",
+    "ngoko": "Adhep-adhepan"
+  },
+  {
+    "indonesia": "Menghadap",
+    "kramaalus": "Sowan",
+    "kramainggil": "Marak",
+    "ngoko": "Ngadep"
+  },
+  {
+    "indonesia": "Adik",
+    "kramaalus": "Adhi",
+    "kramainggil": "Rayi",
+    "ngoko": "Adhi"
+  },
+  {
+    "indonesia": "Agama",
+    "kramaalus": "Agami",
+    "kramainggil": "Agami",
+    "ngoko": "Agama"
+  },
+  {
+    "indonesia": "Cepat",
+    "kramaalus": "Enggal",
+    "kramainggil": "Enggal",
+    "ngoko": "Age"
+  },
+  {
+    "indonesia": "Jangan",
+    "kramaalus": "Sampun",
+    "kramainggil": "Sampun",
+    "ngoko": "Aja"
+  },
+  {
+    "indonesia": "Jangan berkata",
+    "kramaalus": "ampun matur",
+    "kramainggil": "ampun ngendika",
+    "ngoko": "Aja ngomong"
+  },
+  {
+    "indonesia": "Nilai",
+    "kramaalus": "Aos",
+    "kramainggil": "Aos",
+    "ngoko": "Aji"
+  },
+  {
+    "indonesia": "Menilai",
+    "kramaalus": "Ngaosi",
+    "kramainggil": "Ngaosi",
+    "ngoko": "Ngajeni"
+  },
+  {
+    "indonesia": "Bernilai",
+    "kramaalus": "Pengaos",
+    "kramainggil": "Pengaos",
+    "ngoko": "Pangaji"
+  },
+  {
+    "indonesia": "Maju",
+    "kramaalus": "Ajeng",
+    "kramainggil": "Ajeng",
+    "ngoko": "Aju"
+  },
+  {
+    "indonesia": "Maju",
+    "kramaalus": "Majeng",
+    "kramainggil": "Majeng",
+    "ngoko": "Maju"
+  },
+  {
+    "indonesia": "Mengajukan",
+    "kramaalus": "Ngajengaken",
+    "kramainggil": "Ngajengaken",
+    "ngoko": "Ngajokake"
+  },
+  {
+    "indonesia": "Barangkali",
+    "kramaalus": "Mbok menawi",
+    "kramainggil": "Mbok menawi",
+    "ngoko": "Ayake"
+  },
+  {
+    "indonesia": "Mari",
+    "kramaalus": "Mangga",
+    "kramainggil": "Suwawi",
+    "ngoko": "Ayo"
+  },
+  {
+    "indonesia": "Silahkan",
+    "kramaalus": "Mangga",
+    "kramainggil": "Suwawi",
+    "ngoko": "Ayo"
+  },
+  {
+    "indonesia": "Banyak",
+    "kramaalus": "Kathah",
+    "kramainggil": "Kathah",
+    "ngoko": "Akeh"
+  },
+  {
+    "indonesia": "Kebanyakan",
+    "kramaalus": "Kekathahen",
+    "kramainggil": "Kekathahen",
+    "ngoko": "Kakehan"
+  },
+  {
+    "indonesia": "Umumnya",
+    "kramaalus": "Kathahipun",
+    "kramainggil": "Kathahipun",
+    "ngoko": "Akehe"
+  },
+  {
+    "indonesia": "Suruh",
+    "kramaalus": "Aken",
+    "kramainggil": "Dhawuh",
+    "ngoko": "Akon"
+  },
+  {
+    "indonesia": "Menyuruh",
+    "kramaalus": "Ngeken",
+    "kramainggil": "Dhawuhi",
+    "ngoko": "Ngakon"
+  },
+  {
+    "indonesia": "Ampun",
+    "kramaalus": "Aksama",
+    "kramainggil": "Aksama",
+    "ngoko": "Aksama"
+  },
+  {
+    "indonesia": "Saya",
+    "kramaalus": "Kula",
+    "kramainggil": "Dalem",
+    "ngoko": "Aku"
+  },
+  {
+    "indonesia": "Mengaku",
+    "kramaalus": "Ngaken",
+    "kramainggil": "Ngaken",
+    "ngoko": "Ngaku"
+  },
+  {
+    "indonesia": "Mengaku",
+    "kramaalus": "Ngakeni",
+    "kramainggil": "Ngakeni",
+    "ngoko": "Ngakoni"
+  },
+  {
+    "indonesia": "Diakui",
+    "kramaalus": "Dipunaken",
+    "kramainggil": "Dipunaken",
+    "ngoko": "Diaku"
+  },
+  {
+    "indonesia": "Dianggap",
+    "kramaalus": "Aken",
+    "kramainggil": "Aken",
+    "ngoko": "Akon"
+  },
+  {
+    "indonesia": "Mengakui",
+    "kramaalus": "Ngaken",
+    "kramainggil": "Ngaken",
+    "ngoko": "Ngaku"
+  },
+  {
+    "indonesia": "Jelek",
+    "kramaalus": "Awon",
+    "kramainggil": "Awon",
+    "ngoko": "Ala"
+  },
+  {
+    "indonesia": "Kejelekan",
+    "kramaalus": "Piawon",
+    "kramainggil": "Piawon",
+    "ngoko": "Piala"
+  },
+  {
+    "indonesia": "Meskipun",
+    "kramaalus": "Awon-awon",
+    "kramainggil": "Awon-awon",
+    "ngoko": "Ala-ala"
+  },
+  {
+    "indonesia": "Halangan",
+    "kramaalus": "Pambeng",
+    "kramainggil": "Pambeng",
+    "ngoko": "Alang"
+  },
+  {
+    "indonesia": "Halangan",
+    "kramaalus": "Pambengan ",
+    "kramainggil": "Pambengan",
+    "ngoko": "Alangan "
+  },
+  {
+    "indonesia": "Menghalangi",
+    "kramaalus": "Mambengi",
+    "kramainggil": "Mambengi",
+    "ngoko": "Ngalang-alangi"
+  },
+  {
+    "indonesia": "Hutan",
+    "kramaalus": "Wana",
+    "kramainggil": "Wana",
+    "ngoko": "Alas"
+  },
+  {
+    "indonesia": "Cincin",
+    "kramaalus": "Sesupe",
+    "kramainggil": "Sesupe",
+    "ngoko": "Ali-ali"
+  },
+  {
+    "indonesia": "Pindah",
+    "kramaalus": "Pindah",
+    "kramainggil": "Pindah",
+    "ngoko": "Alih"
+  },
+  {
+    "indonesia": "Alis",
+    "kramaalus": "Alis",
+    "kramainggil": "Imba",
+    "ngoko": "Alis"
+  },
+  {
+    "indonesia": "Karena",
+    "kramaalus": "Amargi",
+    "kramainggil": "Amargi",
+    "ngoko": "Amarga"
+  },
+  {
+    "indonesia": "Luas",
+    "kramaalus": "Wiyar",
+    "kramainggil": "Wiyar",
+    "ngoko": "Amba "
+  },
+  {
+    "indonesia": "Luas",
+    "kramaalus": "Wiyar",
+    "kramainggil": "Wiyar",
+    "ngoko": "Jembar"
+  },
+  {
+    "indonesia": "Memperluas",
+    "kramaalus": "Miyaraken",
+    "kramainggil": "Miyaraken",
+    "ngoko": "Ngambakake"
+  },
+  {
+    "indonesia": "Bau",
+    "kramaalus": "Ambet",
+    "kramainggil": "Ambet",
+    "ngoko": "Ambu"
+  },
+  {
+    "indonesia": "Mencium",
+    "kramaalus": "Ngambet",
+    "kramainggil": "Ngambet",
+    "ngoko": "Ngambu"
+  },
+  {
+    "indonesia": "Bau-bauan",
+    "kramaalus": "Ambet-ambetan",
+    "kramainggil": "Ambet-ambetan",
+    "ngoko": "Ambon-ambon"
+  },
+  {
+    "indonesia": "Cium",
+    "kramaalus": "Ambung",
+    "kramainggil": "Aras",
+    "ngoko": "Ambung"
+  },
+  {
+    "indonesia": "Mencium",
+    "kramaalus": "Ngambung",
+    "kramainggil": "Ngaras",
+    "ngoko": "Ngambung"
+  },
+  {
+    "indonesia": "Minta maaf",
+    "kramaalus": "Amit",
+    "kramainggil": "Nuwun Sewu",
+    "ngoko": "Amit"
+  },
+  {
+    "indonesia": "Singgah",
+    "kramaalus": "Ampir",
+    "kramainggil": "Pinarak",
+    "ngoko": "Ampir"
+  },
+  {
+    "indonesia": "Ada",
+    "kramaalus": "Wonten",
+    "kramainggil": "Wonten",
+    "ngoko": "Ono"
+  },
+  {
+    "indonesia": "Mengadakan",
+    "kramaalus": "Ngawontenake",
+    "kramainggil": "Ngawontenake",
+    "ngoko": "Nganakake"
+  },
+  {
+    "indonesia": "Keadaan",
+    "kramaalus": "Kawontenan",
+    "kramainggil": "Kawontenan",
+    "ngoko": "Kahanan"
+  },
+  {
+    "indonesia": "Adapun",
+    "kramaalus": "Wondene",
+    "kramainggil": "Wondene",
+    "ngoko": "Ana dene"
+  },
+  {
+    "indonesia": "Anak",
+    "kramaalus": "Anak ",
+    "kramainggil": "Putra",
+    "ngoko": "Anak"
+  },
+  {
+    "indonesia": "Bersalin",
+    "kramaalus": "Gadhah Lare",
+    "kramainggil": "Babaran",
+    "ngoko": "Manak"
+  },
+  {
+    "indonesia": "Beranak",
+    "kramaalus": "Anak-anak",
+    "kramainggil": "Peputra",
+    "ngoko": "Anak-anak"
+  },
+  {
+    "indonesia": "Percaya",
+    "kramaalus": "Pitados",
+    "kramainggil": "Pitados",
+    "ngoko": "Andel"
+  },
+  {
+    "indonesia": "Kepercayaan",
+    "kramaalus": "Kapitadosan",
+    "kramainggil": "Kapitadosan",
+    "ngoko": "Piandel"
+  },
+  {
+    "indonesia": "Menuai",
+    "kramaalus": "Mugut",
+    "kramainggil": "Mugut",
+    "ngoko": "Ngeneni"
+  },
+  {
+    "indonesia": "Muda",
+    "kramaalus": "Enem",
+    "kramainggil": "Enem",
+    "ngoko": "Anom"
+  },
+  {
+    "indonesia": "Antara",
+    "kramaalus": "Antawis",
+    "kramainggil": "Antawis",
+    "ngoko": "Antara"
+  },
+  {
+    "indonesia": "Tunggu",
+    "kramaalus": "Antos",
+    "kramainggil": "Antos",
+    "ngoko": "Anti"
+  },
+  {
+    "indonesia": "Sampai",
+    "kramaalus": "Ngantos",
+    "kramainggil": "Ngantos",
+    "ngoko": "Nganti"
+  },
+  {
+    "indonesia": "Menunggu",
+    "kramaalus": "Ngantos-ngantos",
+    "kramainggil": "Ngantos-ngantos",
+    "ngoko": "Nganti-nganti"
+  },
+  {
+    "indonesia": "Turut",
+    "kramaalus": "Tumut",
+    "kramainggil": "Dherek",
+    "ngoko": "Anut"
+  },
+  {
+    "indonesia": "Asalkan",
+    "kramaalus": "Uger",
+    "kramainggil": "Uger",
+    "ngoko": "Angger"
+  },
+  {
+    "indonesia": "Menggembala",
+    "kramaalus": "Angen",
+    "kramainggil": "Angen",
+    "ngoko": "Angon"
+  },
+  {
+    "indonesia": "Penggembala",
+    "kramaalus": "Pangen",
+    "kramainggil": "Pangen",
+    "ngoko": "Pangon"
+  },
+  {
+    "indonesia": "Tawar",
+    "kramaalus": "Awis",
+    "kramainggil": "Awis",
+    "ngoko": "Ayang"
+  },
+  {
+    "indonesia": "Menawar",
+    "kramaalus": "Ngawis",
+    "kramainggil": "Ngawis",
+    "ngoko": "Nganyang"
+  },
+  {
+    "indonesia": "Tawar-menawar",
+    "kramaalus": "Awis-awisan",
+    "kramainggil": "Awis-awisan",
+    "ngoko": "Anyang-anyangan"
+  },
+  {
+    "indonesia": "Baru",
+    "kramaalus": "Enggal",
+    "kramainggil": "Enggal",
+    "ngoko": "Anyar"
+  },
+  {
+    "indonesia": "Apa",
+    "kramaalus": "Menapa",
+    "kramainggil": "Punapa",
+    "ngoko": "Apa"
+  },
+  {
+    "indonesia": "Hapal",
+    "kramaalus": "Apal",
+    "kramainggil": "Apal",
+    "ngoko": "Apal"
+  },
+  {
+    "indonesia": "Hapalan",
+    "kramaalus": "Apalan",
+    "kramainggil": "Apalan",
+    "ngoko": "Apalan"
+  },
+  {
+    "indonesia": "Baik",
+    "kramaalus": "Sae",
+    "kramainggil": "Sae",
+    "ngoko": "Apik"
+  },
+  {
+    "indonesia": "Bagus",
+    "kramaalus": "Sae",
+    "kramainggil": "Sae",
+    "ngoko": "Becik"
+  },
+  {
+    "indonesia": "Maaf",
+    "kramaalus": "Apunten",
+    "kramainggil": "Apunten",
+    "ngoko": "Apura"
+  },
+  {
+    "indonesia": "Memaafkan",
+    "kramaalus": "Ngapunten",
+    "kramainggil": "Ngapunten",
+    "ngoko": "Ngapura"
+  },
+  {
+    "indonesia": "Nama",
+    "kramaalus": "Nama",
+    "kramainggil": "Asma",
+    "ngoko": "Aran"
+  },
+  {
+    "indonesia": "Nama",
+    "kramaalus": "Nama",
+    "kramainggil": "Asma",
+    "ngoko": "Jeneng"
+  },
+  {
+    "indonesia": "Nama (barang)",
+    "kramaalus": "Wasta",
+    "kramainggil": "Wasta",
+    "ngoko": "Aean "
+  },
+  {
+    "indonesia": "Menyebut",
+    "kramaalus": "Mastani",
+    "kramainggil": "Mastani",
+    "ngoko": "Ngarani"
+  },
+  {
+    "indonesia": "Jarang",
+    "kramaalus": "Awis",
+    "kramainggil": "Awis",
+    "ngoko": "Arang"
+  },
+  {
+    "indonesia": "Mau",
+    "kramaalus": "Doyan",
+    "kramainggil": "Kersa",
+    "ngoko": "Arep"
+  },
+  {
+    "indonesia": "Hadap",
+    "kramaalus": "Ajeng",
+    "kramainggil": "Ajeng",
+    "ngoko": "Arep"
+  },
+  {
+    "indonesia": "Depan",
+    "kramaalus": "Ngajeng",
+    "kramainggil": "Ngajeng",
+    "ngoko": "Ngarep"
+  },
+  {
+    "indonesia": "Bagian depan",
+    "kramaalus": "Ngajengan",
+    "kramainggil": "Ngajengan",
+    "ngoko": "Ngarepan"
+  },
+  {
+    "indonesia": "Adik",
+    "kramaalus": "Ari",
+    "kramainggil": "Rayi",
+    "ngoko": "Ari"
+  },
+  {
+    "indonesia": "Ari-ari",
+    "kramaalus": "ari-ari",
+    "kramainggil": "Tuntunan",
+    "ngoko": "Ari-ari"
+  },
+  {
+    "indonesia": "Rendah",
+    "kramaalus": "Awon",
+    "kramainggil": "Andhap",
+    "ngoko": "Asor"
+  },
+  {
+    "indonesia": "Kalah",
+    "kramaalus": "Kawon",
+    "kramainggil": "Kandhapan",
+    "ngoko": "Kasoran"
+  },
+  {
+    "indonesia": "Mengalah",
+    "kramaalus": "Ngawon",
+    "kramainggil": "Ngawon",
+    "ngoko": "Ngasor"
+  },
+  {
+    "indonesia": "Anjing",
+    "kramaalus": "Segawon",
+    "kramainggil": "Segawon",
+    "ngoko": "Asu"
+  },
+  {
+    "indonesia": "Hati",
+    "kramaalus": "Manah",
+    "kramainggil": "Penggalih",
+    "ngoko": "Ati"
+  },
+  {
+    "indonesia": "Hati-hati",
+    "kramaalus": "Atos-atos",
+    "kramainggil": "Atos-atos",
+    "ngoko": "Ati-ati"
+  },
+  {
+    "indonesia": "Berhati-hati",
+    "kramaalus": "Ngatos-ngatos",
+    "kramainggil": "Ngatos-ngatos",
+    "ngoko": "Ngati-ati"
+  },
+  {
+    "indonesia": "Badan",
+    "kramaalus": "Badan",
+    "kramainggil": "Salira",
+    "ngoko": "Awak"
+  },
+  {
+    "indonesia": "Tubuh",
+    "kramaalus": "Badan",
+    "kramainggil": "Salira",
+    "ngoko": "Awak"
+  },
+  {
+    "indonesia": "Melakukan sendiri",
+    "kramaalus": "Ngawaki",
+    "kramainggil": "Nyelirani",
+    "ngoko": "Ngawaki"
+  },
+  {
+    "indonesia": "Siang",
+    "kramaalus": "Siyang",
+    "kramainggil": "Siyang",
+    "ngoko": "Awan"
+  },
+  {
+    "indonesia": "Kesiangan",
+    "kramaalus": "Kesiangan",
+    "kramainggil": "Kesiangan",
+    "ngoko": "Kawanen"
+  },
+  {
+    "indonesia": "Meskipun siang",
+    "kramaalus": "Siyang-siyang",
+    "kramainggil": "Siyang-siyang",
+    "ngoko": "Awan-awan"
+  },
+  {
+    "indonesia": "Mari",
+    "kramaalus": "Mangga",
+    "kramainggil": "Mangga",
+    "ngoko": "Ayo"
+  },
+  {
+    "indonesia": "Hanya",
+    "kramaalus": "Kemawon",
+    "kramainggil": "Kemawon",
+    "ngoko": "Bae"
+  },
+  {
+    "indonesia": "Kemudian",
+    "kramaalus": "Lajeng",
+    "kramainggil": "Lajeng",
+    "ngoko": "Bacut"
+  },
+  {
+    "indonesia": "Terlanjur",
+    "kramaalus": "Kelajeng",
+    "kramainggil": "Kelajeng",
+    "ngoko": "Kebacut"
+  },
+  {
+    "indonesia": "Melahirkan",
+    "kramaalus": "Nglairaken",
+    "kramainggil": "Babaran",
+    "ngoko": "Bayen"
+  },
+  {
+    "indonesia": "Akan",
+    "kramaalus": "Badhe",
+    "kramainggil": "Badhe",
+    "ngoko": "Bakal"
+  },
+  {
+    "indonesia": "Tembakau",
+    "kramaalus": "Sata",
+    "kramainggil": "Sata",
+    "ngoko": "Bako"
+  },
+  {
+    "indonesia": "Pokok",
+    "kramaalus": "Baken",
+    "kramainggil": "Baken",
+    "ngoko": "Baku"
+  },
+  {
+    "indonesia": "Kembali",
+    "kramaalus": "Wangsung",
+    "kramainggil": "Kondhur",
+    "ngoko": "Bali"
+  },
+  {
+    "indonesia": "Berkali-kali",
+    "kramaalus": "Wongsal-wangsul",
+    "kramainggil": "Wongsal-wangsul",
+    "ngoko": "Bola-bali"
+  },
+  {
+    "indonesia": "Tulang",
+    "kramaalus": "Balung",
+    "kramainggil": "Tosan",
+    "ngoko": "Balung"
+  },
+  {
+    "indonesia": "Borgol",
+    "kramaalus": "Banda",
+    "kramainggil": "Besta",
+    "ngoko": "Banda"
+  },
+  {
+    "indonesia": "Tawanan",
+    "kramaalus": "Bebadan",
+    "kramainggil": "Bestan",
+    "ngoko": "Bebadan"
+  },
+  {
+    "indonesia": "Banjir",
+    "kramaalus": "Bena",
+    "kramainggil": "Bena",
+    "ngoko": "Banjir"
+  },
+  {
+    "indonesia": "Kemudian",
+    "kramaalus": "Lajeng",
+    "kramainggil": "Lajeng",
+    "ngoko": "Banjur"
+  },
+  {
+    "indonesia": "Terlanjur",
+    "kramaalus": "Kelajeng",
+    "kramainggil": "Kelajeng",
+    "ngoko": "Kebanjur"
+  },
+  {
+    "indonesia": "Sangat",
+    "kramaalus": "Sanget",
+    "kramainggil": "Sanget",
+    "ngoko": "Banget"
+  },
+  {
+    "indonesia": "Keterlaluan",
+    "kramaalus": "Kesangeten",
+    "kramainggil": "Kesangeten",
+    "ngoko": "Kebangeten"
+  },
+  {
+    "indonesia": "Terlalu",
+    "kramaalus": "Sanget-sanget",
+    "kramainggil": "Sanget-sanget",
+    "ngoko": "Banget-banget"
+  },
+  {
+    "indonesia": "Bantal",
+    "kramaalus": "Bantal",
+    "kramainggil": "Kajang",
+    "ngoko": "Bantal"
+  },
+  {
+    "indonesia": "Bantalan",
+    "kramaalus": "Bantalan",
+    "kramainggil": "Kajangan",
+    "ngoko": "Bantalan"
+  },
+  {
+    "indonesia": "Air",
+    "kramaalus": "Toya",
+    "kramainggil": "Toya",
+    "ngoko": "Banyu"
+  },
+  {
+    "indonesia": "Ayah",
+    "kramaalus": "Bapak",
+    "kramainggil": "Rama",
+    "ngoko": "Bapak"
+  },
+  {
+    "indonesia": "Bersama",
+    "kramaalus": "Sareng",
+    "kramainggil": "Sareng",
+    "ngoko": "Bareng"
+  },
+  {
+    "indonesia": "Bersama(datang)",
+    "kramaalus": "Sesarengan",
+    "kramainggil": "Sesarengan",
+    "ngoko": "Bebarengan"
+  },
+  {
+    "indonesia": "Sulung",
+    "kramaalus": "Pembajeng",
+    "kramainggil": "Pembajeng",
+    "ngoko": "Mbarep"
+  },
+  {
+    "indonesia": "Batu bata",
+    "kramaalus": "Banon",
+    "kramainggil": "Banon",
+    "ngoko": "Bata"
+  },
+  {
+    "indonesia": "Batin",
+    "kramaalus": "Batos",
+    "kramainggil": "Batos",
+    "ngoko": "Batin"
+  },
+  {
+    "indonesia": "Memikir",
+    "kramaalus": "Mbatos",
+    "kramainggil": "Mbatos",
+    "ngoko": "Mbatin"
+  },
+  {
+    "indonesia": "Kebatinan",
+    "kramaalus": "Kebatosan",
+    "kramainggil": "Kebatosan",
+    "ngoko": "Kebatinan"
+  },
+  {
+    "indonesia": "Batu",
+    "kramaalus": "Sela",
+    "kramainggil": "Sela",
+    "ngoko": "Watu"
+  },
+  {
+    "indonesia": "Pembantu",
+    "kramaalus": "Rencang",
+    "kramainggil": "Abdi",
+    "ngoko": "Batur"
+  },
+  {
+    "indonesia": "Mengabdi",
+    "kramaalus": "Ngerencang",
+    "kramainggil": "Ngabdi",
+    "ngoko": "Mbatur"
+  },
+  {
+    "indonesia": "Menemani",
+    "kramaalus": "Ngrencangi",
+    "kramainggil": "Ngrencangi",
+    "ngoko": "Mbaturi"
+  },
+  {
+    "indonesia": "Batik",
+    "kramaalus": "Serat",
+    "kramainggil": "Serat",
+    "ngoko": "Bathik"
+  },
+  {
+    "indonesia": "Membatik",
+    "kramaalus": "Nyerat",
+    "kramainggil": "Nyerat",
+    "ngoko": "Mbatik"
+  },
+  {
+    "indonesia": "Dahi",
+    "kramaalus": "Bathuk",
+    "kramainggil": "Pelarapan",
+    "ngoko": "Bathuk"
+  },
+  {
+    "indonesia": "Jarik",
+    "kramaalus": "Bebed",
+    "kramainggil": "Nyamping",
+    "ngoko": "Bebed"
+  },
+  {
+    "indonesia": "Itik",
+    "kramaalus": "Kembangan",
+    "kramainggil": "Kembangan",
+    "ngoko": "Bebek"
+  },
+  {
+    "indonesia": "Beda",
+    "kramaalus": "Benten",
+    "kramainggil": "Benten",
+    "ngoko": "Beda"
+  },
+  {
+    "indonesia": "Pipa rokok",
+    "kramaalus": "Bedudan",
+    "kramainggil": "Watangan",
+    "ngoko": "Bedudan"
+  },
+  {
+    "indonesia": "Hormat",
+    "kramaalus": "Bekti",
+    "kramainggil": "Bekti",
+    "ngoko": "Bekti"
+  },
+  {
+    "indonesia": "Berbakti",
+    "kramaalus": "Ngabekti",
+    "kramainggil": "Ngabekti",
+    "ngoko": "Ngabekti"
+  },
+  {
+    "indonesia": "Biar",
+    "kramaalus": "Kajengipun",
+    "kramainggil": "Kersanipun",
+    "ngoko": "Ben"
+  },
+  {
+    "indonesia": "Malam",
+    "kramaalus": "Dalu",
+    "kramainggil": "Dalu",
+    "ngoko": "Bengi"
+  },
+  {
+    "indonesia": "Kemalaman",
+    "kramaalus": "Kedalon",
+    "kramainggil": "Kedalon",
+    "ngoko": "Kewengen"
+  },
+  {
+    "indonesia": "Beras",
+    "kramaalus": "Uwos",
+    "kramainggil": "Uwos",
+    "ngoko": "Beras"
+  },
+  {
+    "indonesia": "Besok",
+    "kramaalus": "Benjing",
+    "kramainggil": "Benjing",
+    "ngoko": "Sesuk"
+  },
+  {
+    "indonesia": "Baik",
+    "kramaalus": "Sae",
+    "kramainggil": "Sae",
+    "ngoko": "Becik"
+  },
+  {
+    "indonesia": "Kebaikan",
+    "kramaalus": "Kasaenan",
+    "kramainggil": "Kasaenan",
+    "ngoko": "Kebecikan"
+  },
+  {
+    "indonesia": "Dahulu",
+    "kramaalus": "Rumiyin",
+    "kramainggil": "Rumiyin",
+    "ngoko": "Biyen"
+  },
+  {
+    "indonesia": "Dahulunya",
+    "kramaalus": "Rumiyinipun",
+    "kramainggil": "Rumiyinipun",
+    "ngoko": "Mbiyene"
+  },
+  {
+    "indonesia": "Dapat",
+    "kramaalus": "Saged",
+    "kramainggil": "Saged",
+    "ngoko": "Bisa"
+  },
+  {
+    "indonesia": "Berat",
+    "kramaalus": "Awrat",
+    "kramainggil": "Wawrat",
+    "ngoko": "Bobot"
+  },
+  {
+    "indonesia": "Suami-istri",
+    "kramaalus": "Semah",
+    "kramainggil": "Garwa",
+    "ngoko": "Bojo"
+  },
+  {
+    "indonesia": "Pantat",
+    "kramaalus": "Bokong",
+    "kramainggil": "Pocong",
+    "ngoko": "Bokong"
+  },
+  {
+    "indonesia": "Benang",
+    "kramaalus": "Benang",
+    "kramainggil": "Benang",
+    "ngoko": "Bolah"
+  },
+  {
+    "indonesia": "Bedak",
+    "kramaalus": "Boreh",
+    "kramainggil": "Konyoh",
+    "ngoko": "Boreh"
+  },
+  {
+    "indonesia": "Anak",
+    "kramaalus": "Lare",
+    "kramainggil": "Lare",
+    "ngoko": "Bocak"
+  },
+  {
+    "indonesia": "Kumis",
+    "kramaalus": "Rawis",
+    "kramainggil": "Gumbala",
+    "ngoko": "Brengos"
+  },
+  {
+    "indonesia": "Selesai",
+    "kramaalus": "Bibar",
+    "kramainggil": "Bibar",
+    "ngoko": "Bubar"
+  },
+  {
+    "indonesia": "Rusak",
+    "kramaalus": "Risak",
+    "kramainggil": "Risak",
+    "ngoko": "Bubrak"
+  },
+  {
+    "indonesia": "Budi",
+    "kramaalus": "Manah",
+    "kramainggil": "Penggalih",
+    "ngoko": "Budi"
+  },
+  {
+    "indonesia": "Berangkat",
+    "kramaalus": "Bidhal",
+    "kramainggil": "Bidhal",
+    "ngoko": "Budhal"
+  },
+  {
+    "indonesia": "Bubaran",
+    "kramaalus": "Bidhalan",
+    "kramainggil": "Bidhalan",
+    "ngoko": "Budahalan"
+  },
+  {
+    "indonesia": "Gembira",
+    "kramaalus": "Bingah",
+    "kramainggil": "Rena",
+    "ngoko": "Bungah"
+  },
+  {
+    "indonesia": "Bergembira",
+    "kramaalus": "Bingah-bingah",
+    "kramainggil": "Bingah-bingah",
+    "ngoko": "Bungah-bungah"
+  },
+  {
+    "indonesia": "Bupati",
+    "kramaalus": "Bupati",
+    "kramainggil": "Bupati",
+    "ngoko": "Bupati"
+  },
+  {
+    "indonesia": "Belakang",
+    "kramaalus": "Wingking",
+    "kramainggil": "Wingking",
+    "ngoko": "Buri"
+  },
+  {
+    "indonesia": "Kejar",
+    "kramaalus": "Bujeng",
+    "kramainggil": "Bujeng",
+    "ngoko": "Buru"
+  },
+  {
+    "indonesia": "Mengejar",
+    "kramaalus": "Mbujeng",
+    "kramainggil": "Mbujeng",
+    "ngoko": "Mburu"
+  },
+  {
+    "indonesia": "Berburu",
+    "kramaalus": "Bebujeng",
+    "kramainggil": "Mbebujeng",
+    "ngoko": "Beburu"
+  },
+  {
+    "indonesia": "Butuh",
+    "kramaalus": "Betah",
+    "kramainggil": "Betah",
+    "ngoko": "Butuh"
+  },
+  {
+    "indonesia": "Kebutuhan",
+    "kramaalus": "Kebetahan",
+    "kramainggil": "Kebetahan",
+    "ngoko": "Kebutuhan"
+  },
+  {
+    "indonesia": "Buang",
+    "kramaalus": "Bucal",
+    "kramainggil": "Bucal",
+    "ngoko": "Buwang"
+  },
+  {
+    "indonesia": "Mulut",
+    "kramaalus": "Lesan",
+    "kramainggil": "Tutuk",
+    "ngoko": "Cangkem"
+  },
+  {
+    "indonesia": "Dekat",
+    "kramaalus": "Celak",
+    "kramainggil": "Celak",
+    "ngoko": "Cedhak"
+  },
+  {
+    "indonesia": "Pegang",
+    "kramaalus": "Cepeng",
+    "kramainggil": "Asta",
+    "ngoko": "Cekel"
+  },
+  {
+    "indonesia": "Memegang",
+    "kramaalus": "Nyepeng",
+    "kramainggil": "Ngasta",
+    "ngoko": "Nyekel"
+  },
+  {
+    "indonesia": "Bicara",
+    "kramaalus": "Wicanten",
+    "kramainggil": "Ngendika",
+    "ngoko": "Chelatu"
+  },
+  {
+    "indonesia": "Babi hutan",
+    "kramaalus": "Andaan",
+    "kramainggil": "Andaan",
+    "ngoko": "Celeng"
+  },
+  {
+    "indonesia": "Pendek",
+    "kramaalus": "Andhap",
+    "kramainggil": "Andhap",
+    "ngoko": "Cendhek"
+  },
+  {
+    "indonesia": "Rendah",
+    "kramaalus": "Andhap",
+    "kramainggil": "Andhap",
+    "ngoko": "Endhek"
+  },
+  {
+    "indonesia": "Tengkuk",
+    "kramaalus": "Cengel",
+    "kramainggil": "Griwa",
+    "ngoko": "Cengel"
+  },
+  {
+    "indonesia": "Kecil",
+    "kramaalus": "Alit",
+    "kramainggil": "Alit",
+    "ngoko": "Cilik"
+  },
+  {
+    "indonesia": "Yang kecil",
+    "kramaalus": "Alitan",
+    "kramainggil": "Alitan",
+    "ngoko": "Cilikan"
+  },
+  {
+    "indonesia": "Coba",
+    "kramaalus": "Cobi",
+    "kramainggil": "Cobi",
+    "ngoko": "Cobi"
+  },
+  {
+    "indonesia": "Percobaan",
+    "kramaalus": "Pacoban",
+    "kramainggil": "Pacoban",
+    "ngoko": "Pacoban"
+  },
+  {
+    "indonesia": "Cobaan",
+    "kramaalus": "Pacoban",
+    "kramainggil": "Pacoban",
+    "ngoko": "Pacoban"
+  },
+  {
+    "indonesia": "Cerita",
+    "kramaalus": "Ceriyos",
+    "kramainggil": "Dhusun",
+    "ngoko": "Cerita"
+  },
+  {
+    "indonesia": "Cukup",
+    "kramaalus": "Cekap",
+    "kramainggil": "Cekap",
+    "ngoko": "Cukup"
+  },
+  {
+    "indonesia": "Kecukupan",
+    "kramaalus": "Kecekapan",
+    "kramainggil": "Kecekapan",
+    "ngoko": "Kecukupan"
+  },
+  {
+    "indonesia": "Cukur",
+    "kramaalus": "Cukur",
+    "kramainggil": "Paras",
+    "ngoko": "Cukur"
+  },
+  {
+    "indonesia": "Sanggama",
+    "kramaalus": "Cumbana",
+    "kramainggil": "Saresmi",
+    "ngoko": "Cumbana"
+  },
+  {
+    "indonesia": "Memijit",
+    "kramaalus": "Dadah",
+    "kramainggil": "Ngginda",
+    "ngoko": "Dadah"
+  },
+  {
+    "indonesia": "Jadi",
+    "kramaalus": "Dados",
+    "kramainggil": "Dados",
+    "ngoko": "Dadi"
+  },
+  {
+    "indonesia": "Menjadi",
+    "kramaalus": "Dumados",
+    "kramainggil": "Dumados",
+    "ngoko": "Dumadi"
+  },
+  {
+    "indonesia": "Terjadi",
+    "kramaalus": "Kedadosan",
+    "kramainggil": "Kedadosan",
+    "ngoko": "Kedadeyan"
+  },
+  {
+    "indonesia": "Dagang",
+    "kramaalus": "Gramen",
+    "kramainggil": "Gramen",
+    "ngoko": "Dagang"
+  },
+  {
+    "indonesia": "Jalan",
+    "kramaalus": "Margi",
+    "kramainggil": "Margi",
+    "ngoko": "Dalan"
+  },
+  {
+    "indonesia": "Berhias",
+    "kramaalus": "Dandos",
+    "kramainggil": "Busana",
+    "ngoko": "Dandan"
+  },
+  {
+    "indonesia": "Merias",
+    "kramaalus": "Ndandani",
+    "kramainggil": "Mbusanani",
+    "ngoko": "Ndandani"
+  },
+  {
+    "indonesia": "Panjang",
+    "kramaalus": "Panjang",
+    "kramainggil": "Panjang",
+    "ngoko": "Dawa"
+  },
+  {
+    "indonesia": "Memperpanjang",
+    "kramaalus": "Memanjang",
+    "kramainggil": "Memanjang",
+    "ngoko": "Ndedawa"
+  },
+  {
+    "indonesia": "Taruh",
+    "kramaalus": "Suka",
+    "kramainggil": "Paring",
+    "ngoko": "Deleh"
+  },
+  {
+    "indonesia": "Letak",
+    "kramaalus": "Suka",
+    "kramainggil": "Paring",
+    "ngoko": "Deleh"
+  },
+  {
+    "indonesia": "Meletakkan",
+    "kramaalus": "Nyukakaken",
+    "kramainggil": "Maringaken",
+    "ngoko": "Ndelehaken"
+  },
+  {
+    "indonesia": "Lihat",
+    "kramaalus": "Tinggal",
+    "kramainggil": "Priksa",
+    "ngoko": "Deleng"
+  },
+  {
+    "indonesia": "Melihat",
+    "kramaalus": "Ninggali",
+    "kramainggil": "Mriksani",
+    "ngoko": "Ndeleng"
+  },
+  {
+    "indonesia": "Sepenglihatan",
+    "kramaalus": "Sapeninggal",
+    "kramainggil": "Sapeninggal",
+    "ngoko": "Sapendeleng"
+  },
+  {
+    "indonesia": "Amal",
+    "kramaalus": "Derma",
+    "kramainggil": "Derma",
+    "ngoko": "Derma"
+  },
+  {
+    "indonesia": "Hanya karena",
+    "kramaalus": "Sadremi",
+    "kramainggil": "Sadremi",
+    "ngoko": "Sadrema"
+  },
+  {
+    "indonesia": "Desa",
+    "kramaalus": "Dhusun",
+    "kramainggil": "Dhusun",
+    "ngoko": "Desa"
+  },
+  {
+    "indonesia": "Pedesaan",
+    "kramaalus": "Pedhusunan",
+    "kramainggil": "Pedhusunan",
+    "ngoko": "Padesan"
+  },
+  {
+    "indonesia": "Dada",
+    "kramaalus": "Dhadha",
+    "kramainggil": "Jaja",
+    "ngoko": "Dhadha"
+  },
+  {
+    "indonesia": "Tamu",
+    "kramaalus": "Tamu",
+    "kramainggil": "Tamu",
+    "ngoko": "Dhayo"
+  },
+  {
+    "indonesia": "Ketika",
+    "kramaalus": "Kala",
+    "kramainggil": "Nalika",
+    "ngoko": "Dhek"
+  },
+  {
+    "indonesia": "Senang",
+    "kramaalus": "Remen",
+    "kramainggil": "Remen",
+    "ngoko": "Dhemen"
+  },
+  {
+    "indonesia": "Suka",
+    "kramaalus": "Remen",
+    "kramainggil": "Remen",
+    "ngoko": "Dhemen"
+  },
+  {
+    "indonesia": "Kesenangan",
+    "kramaalus": "Remenan",
+    "kramainggil": "Remenan",
+    "ngoko": "Dhemenan"
+  },
+  {
+    "indonesia": "Lutut",
+    "kramaalus": "Dhengkul",
+    "kramainggil": "Jengku",
+    "ngoko": "Dhengkul"
+  },
+  {
+    "indonesia": "Sendiri",
+    "kramaalus": "Piyambak",
+    "kramainggil": "Piyambak",
+    "ngoko": "Dhewe"
+  },
+  {
+    "indonesia": "Dia",
+    "kramaalus": "Piyambakipun",
+    "kramainggil": "Panjenenganipun",
+    "ngoko": "Dheweke"
+  },
+  {
+    "indonesia": "Dahulu",
+    "kramaalus": "Rumiyin",
+    "kramainggil": "Rumiyin",
+    "ngoko": "Dhisik"
+  },
+  {
+    "indonesia": "Uang",
+    "kramaalus": "Arta",
+    "kramainggil": "Arta",
+    "ngoko": "Dhuwit"
+  },
+  {
+    "indonesia": "Tinggi",
+    "kramaalus": "Inggil",
+    "kramainggil": "Luhur",
+    "ngoko": "Dhuwur"
+  },
+  {
+    "indonesia": "Di-",
+    "kramaalus": "Dipun-",
+    "kramainggil": "Dipun-",
+    "ngoko": "Di-"
+  },
+  {
+    "indonesia": "Hari",
+    "kramaalus": "Dinten",
+    "kramainggil": "Dipun-",
+    "ngoko": "Dina"
+  },
+  {
+    "indonesia": "Harian",
+    "kramaalus": "Padintenan",
+    "kramainggil": "Padintenan",
+    "ngoko": "Padinan"
+  },
+  {
+    "indonesia": "Kertas",
+    "kramaalus": "Dlancang",
+    "kramainggil": "Dlancang",
+    "ngoko": "Dluwang"
+  },
+  {
+    "indonesia": "Kain",
+    "kramaalus": "Dodot",
+    "kramainggil": "Kampuh",
+    "ngoko": "Dodot"
+  },
+  {
+    "indonesia": "Letak",
+    "kramaalus": "Dekek",
+    "kramainggil": "Paring",
+    "ngoko": "Dokok"
+  },
+  {
+    "indonesia": "Meletakkan",
+    "kramaalus": "Ddekekaken",
+    "kramainggil": "Maringaken",
+    "ngoko": "Ndokokake"
+  },
+  {
+    "indonesia": "Mau",
+    "kramaalus": "Purun",
+    "kramainggil": "Kersa",
+    "ngoko": "Doyan"
+  },
+  {
+    "indonesia": "Jual",
+    "kramaalus": "Sade",
+    "kramainggil": "Sade",
+    "ngoko": "Dol"
+  },
+  {
+    "indonesia": "Jual beli",
+    "kramaalus": "Sade tinumbas",
+    "kramainggil": "Sade tinumbas",
+    "ngoko": "Dol tinuku"
+  },
+  {
+    "indonesia": "Main",
+    "kramaalus": "Dolan",
+    "kramainggil": "Ameng-ameng",
+    "ngoko": "Dolan"
+  },
+  {
+    "indonesia": "Bermain",
+    "kramaalus": "Dolanan",
+    "kramainggil": "Ameng-amengan",
+    "ngoko": "Dolanan"
+  },
+  {
+    "indonesia": "Jarum",
+    "kramaalus": "Jarum",
+    "kramainggil": "Jarum",
+    "ngoko": "Dom"
+  },
+  {
+    "indonesia": "Bukan",
+    "kramaalus": "Sanes",
+    "kramainggil": "Sanes",
+    "ngoko": "Dudu"
+  },
+  {
+    "indonesia": "Duga",
+    "kramaalus": "Dugi",
+    "kramainggil": "Dugi",
+    "ngoko": "Dugi"
+  },
+  {
+    "indonesia": "Kira-kira",
+    "kramaalus": "Kedugi",
+    "kramainggil": "Kedugi",
+    "ngoko": "Kaduga"
+  },
+  {
+    "indonesia": "Saudara",
+    "kramaalus": "Dherek",
+    "kramainggil": "Dherek",
+    "ngoko": "Dulur"
+  },
+  {
+    "indonesia": "Saudara",
+    "kramaalus": "Sedherek",
+    "kramainggil": "Sentana",
+    "ngoko": "Sedulur"
+  },
+  {
+    "indonesia": "Persaudaraan",
+    "kramaalus": "Pasedherekan",
+    "kramainggil": "Pasedherekan",
+    "ngoko": "Paseduluran"
+  },
+  {
+    "indonesia": "Belum",
+    "kramaalus": "Dereng",
+    "kramainggil": "Dereng",
+    "ngoko": "Durung"
+  },
+  {
+    "indonesia": "Sebelumnya",
+    "kramaalus": "Saderengipun",
+    "kramainggil": "Saderengipun",
+    "ngoko": "Sadurunge"
+  },
+  {
+    "indonesia": "Gila",
+    "kramaalus": "Ewah",
+    "kramainggil": "Ewah",
+    "ngoko": "Edan"
+  },
+  {
+    "indonesia": "Tergila-gila",
+    "kramaalus": "Kedanan",
+    "kramainggil": "Kesengsem",
+    "ngoko": "kedanan"
+  },
+  {
+    "indonesia": "Ingat",
+    "kramaalus": "Emut",
+    "kramainggil": "Emut",
+    "ngoko": "Eling"
+  },
+  {
+    "indonesia": "Sadar",
+    "kramaalus": "Enget",
+    "kramainggil": "Enget",
+    "ngoko": "Eling"
+  },
+  {
+    "indonesia": "Teringat",
+    "kramaalus": "Kemutan",
+    "kramainggil": "Kemutan",
+    "ngoko": "Kelingan"
+  },
+  {
+    "indonesia": "Teringat",
+    "kramaalus": "Kengetan",
+    "kramainggil": "Kengetan",
+    "ngoko": "Kelingan"
+  },
+  {
+    "indonesia": "Mengingat-ingat",
+    "kramaalus": "Ngemut-emut",
+    "kramainggil": "Ngemut-emut",
+    "ngoko": "Ngeling-eling"
+  },
+  {
+    "indonesia": "Mengingat",
+    "kramaalus": "Ngengeti",
+    "kramainggil": "Ngengeti",
+    "ngoko": "Ngelingi"
+  },
+  {
+    "indonesia": "Ilmu",
+    "kramaalus": "Elmi",
+    "kramainggil": "Elmi",
+    "ngoko": "Elmu"
+  },
+  {
+    "indonesia": "Ikut",
+    "kramaalus": "Tumut",
+    "kramainggil": "Dherek",
+    "ngoko": "Melu"
+  },
+  {
+    "indonesia": "Air mata",
+    "kramaalus": "Eluh",
+    "kramainggil": "Waspa",
+    "ngoko": "Eluh"
+  },
+  {
+    "indonesia": "Emas",
+    "kramaalus": "Jene",
+    "kramainggil": "Jene",
+    "ngoko": "Emas"
+  },
+  {
+    "indonesia": "Kakek",
+    "kramaalus": "Simbah",
+    "kramainggil": "'Eyang",
+    "ngoko": "Embah"
+  },
+  {
+    "indonesia": "Tidak tahu",
+    "kramaalus": "Mboten mangertos",
+    "kramainggil": "Duka",
+    "ngoko": "Embuh"
+  },
+  {
+    "indonesia": "Ubun-ubun",
+    "kramaalus": "Embun-embun",
+    "kramainggil": "Sundulan",
+    "ngoko": "Embun-embun"
+  },
+  {
+    "indonesia": "Ibu",
+    "kramaalus": "Embok",
+    "kramainggil": "Ibu",
+    "ngoko": "Embok"
+  },
+  {
+    "indonesia": "Enak",
+    "kramaalus": "Eca",
+    "kramainggil": "Eca",
+    "ngoko": "Enak"
+  },
+  {
+    "indonesia": "Enak perasaan",
+    "kramaalus": "Sekeca",
+    "kramainggil": "Sekeca",
+    "ngoko": "Kepenak"
+  },
+  {
+    "indonesia": "Sembuh",
+    "kramaalus": "Sekeca",
+    "kramainggil": "Dhangan",
+    "ngoko": "Kepenak"
+  },
+  {
+    "indonesia": "Mabuk",
+    "kramaalus": "Mendem",
+    "kramainggil": "Wuru",
+    "ngoko": "Mendem"
+  },
+  {
+    "indonesia": "Mana",
+    "kramaalus": "Pundi",
+    "kramainggil": "Pundi",
+    "ngoko": "Endi"
+  },
+  {
+    "indonesia": "Kepala",
+    "kramaalus": "Sirah",
+    "kramainggil": "Mustaka",
+    "ngoko": "Endas"
+  },
+  {
+    "indonesia": "Henti",
+    "kramaalus": "Kendel",
+    "kramainggil": "Kendel",
+    "ngoko": "Endheg"
+  },
+  {
+    "indonesia": "Berhenti",
+    "kramaalus": "Kendel",
+    "kramainggil": "Kendel",
+    "ngoko": "Mandheg"
+  },
+  {
+    "indonesia": "Menghentikan",
+    "kramaalus": "Ngendelaken",
+    "kramainggil": "Ngendelaken",
+    "ngoko": "Ngendhegake"
+  },
+  {
+    "indonesia": "Telur",
+    "kramaalus": "Tigan",
+    "kramainggil": "Tigan",
+    "ngoko": "Endhog"
+  },
+  {
+    "indonesia": "Bertelur",
+    "kramaalus": "Nigan",
+    "kramainggil": "Nigan",
+    "ngoko": "Ngendheg"
+  },
+  {
+    "indonesia": "Diam",
+    "kramaalus": "Mendel",
+    "kramainggil": "Mendel",
+    "ngoko": "Meneng"
+  },
+  {
+    "indonesia": "Membiarkan",
+    "kramaalus": "Ngendelaken",
+    "kramainggil": "Ngendelaken",
+    "ngoko": "Ngenengake"
+  },
+  {
+    "indonesia": "Arah",
+    "kramaalus": "Leres",
+    "kramainggil": "Leres",
+    "ngoko": "Ener"
+  },
+  {
+    "indonesia": "Menuju",
+    "kramaalus": "Ngleres",
+    "kramainggil": "Ngleres",
+    "ngoko": "Ngener"
+  },
+  {
+    "indonesia": "Tepat",
+    "kramaalus": "Leres",
+    "kramainggil": "Leres",
+    "ngoko": "Pener"
+  },
+  {
+    "indonesia": "Pakai",
+    "kramaalus": "Engge",
+    "kramainggil": "Agem",
+    "ngoko": "Engo"
+  },
+  {
+    "indonesia": "Janggut",
+    "kramaalus": "Jenggot",
+    "kramainggil": "Gumbala",
+    "ngoko": "Jenggot"
+  },
+  {
+    "indonesia": "Pakai",
+    "kramaalus": "Engge",
+    "kramainggil": "Agem",
+    "ngoko": "Anggo"
+  },
+  {
+    "indonesia": "Dalam",
+    "kramaalus": "Lebet",
+    "kramainggil": "Lebet",
+    "ngoko": "Jero"
+  },
+  {
+    "indonesia": "Untuk",
+    "kramaalus": "Kangge",
+    "kramainggil": "Kagem",
+    "ngoko": "Kanggo"
+  },
+  {
+    "indonesia": "Memakai",
+    "kramaalus": "Ngangge",
+    "kramainggil": "Ngagem",
+    "ngoko": "Nganggo"
+  },
+  {
+    "indonesia": "Tempat",
+    "kramaalus": "Enggen",
+    "kramainggil": "Enggen",
+    "ngoko": "Enggon"
+  },
+  {
+    "indonesia": "Tinggal",
+    "kramaalus": "Manggen",
+    "kramainggil": "Lenggah",
+    "ngoko": "Manggon"
+  },
+  {
+    "indonesia": "Menempati",
+    "kramaalus": "Ngenggeni",
+    "kramainggil": "Nglenggahi",
+    "ngoko": "Ngenggoni"
+  },
+  {
+    "indonesia": "Tempat",
+    "kramaalus": "Panggenan",
+    "kramainggil": "Panggenan",
+    "ngoko": "Panggonan"
+  },
+  {
+    "indonesia": "Muda",
+    "kramaalus": "Enem",
+    "kramainggil": "Enem",
+    "ngoko": "Enom"
+  },
+  {
+    "indonesia": "Masa muda",
+    "kramaalus": "Enem-eneman",
+    "kramainggil": "Enem-eneman",
+    "ngoko": "Enom-enoman"
+  },
+  {
+    "indonesia": "Habis",
+    "kramaalus": "Telas",
+    "kramainggil": "Telas",
+    "ngoko": "Entek"
+  },
+  {
+    "indonesia": "Kehabisan",
+    "kramaalus": "Ketelasan",
+    "kramainggil": "Ketelasan",
+    "ngoko": "Kentekan"
+  },
+  {
+    "indonesia": "Ambil",
+    "kramaalus": "Pendhet",
+    "kramainggil": "Pundhut",
+    "ngoko": "Epek"
+  },
+  {
+    "indonesia": "Mengambil",
+    "kramaalus": "Mendhet",
+    "kramainggil": "Mundhut",
+    "ngoko": "Ngepek"
+  },
+  {
+    "indonesia": "Mengambilkan",
+    "kramaalus": "Mendhetaken",
+    "kramainggil": "Mundhutaken",
+    "ngoko": "Ngepekake"
+  },
+  {
+    "indonesia": "Silahkan",
+    "kramaalus": "Mangga",
+    "kramainggil": "Mangga",
+    "ngoko": "Enya"
+  },
+  {
+    "indonesia": "Ganti",
+    "kramaalus": "Gantos",
+    "kramainggil": "Gantos",
+    "ngoko": "Gadhe"
+  },
+  {
+    "indonesia": "Mengganti",
+    "kramaalus": "Nggantos",
+    "kramainggil": "Nggantos",
+    "ngoko": "Nggandhe"
+  },
+  {
+    "indonesia": "Alat",
+    "kramaalus": "Dedamel",
+    "kramainggil": "Dedamel",
+    "ngoko": "Gaman"
+  },
+  {
+    "indonesia": "Gamelan",
+    "kramaalus": "Gangsa",
+    "kramainggil": "Gangsa",
+    "ngoko": "Gamelan"
+  },
+  {
+    "indonesia": "Mudah",
+    "kramaalus": "Gampil",
+    "kramainggil": "Gampil",
+    "ngoko": "Gampang"
+  },
+  {
+    "indonesia": "Meremehkan",
+    "kramaalus": "Nggampilaken",
+    "kramainggil": "Nggampilaken",
+    "ngoko": "Nggampangake"
+  },
+  {
+    "indonesia": "Masuk",
+    "kramaalus": "Mlebet",
+    "kramainggil": "Mlebet",
+    "ngoko": "Menjero"
+  },
+  {
+    "indonesia": "Memperdalam",
+    "kramaalus": "Nglebetaken",
+    "kramainggil": "Nglebetaken",
+    "ngoko": "Njerokake"
+  },
+  {
+    "indonesia": "Jeruk",
+    "kramaalus": "Jeram",
+    "kramainggil": "Jeram",
+    "ngoko": "Jeruk"
+  },
+  {
+    "indonesia": "Tari",
+    "kramaalus": "Joged",
+    "kramainggil": "Beksa",
+    "ngoko": "Joged"
+  },
+  {
+    "indonesia": "Tarian",
+    "kramaalus": "Jogedan",
+    "kramainggil": "Beksan",
+    "ngoko": "Jogedan"
+  },
+  {
+    "indonesia": "Menari",
+    "kramaalus": "Njoged",
+    "kramainggil": "Mbeksa",
+    "ngoko": "Njoged"
+  },
+  {
+    "indonesia": "Sisir",
+    "kramaalus": "Serat",
+    "kramainggil": "Pethat",
+    "ngoko": "Jungkat"
+  },
+  {
+    "indonesia": "Bersisir",
+    "kramaalus": "Seratan",
+    "kramainggil": "Pethatan",
+    "ngoko": "Jungkatan"
+  },
+  {
+    "indonesia": "Menyisir",
+    "kramaalus": "Nyerati",
+    "kramainggil": "Methati",
+    "ngoko": "Njungkati"
+  },
+  {
+    "indonesia": "Ambil",
+    "kramaalus": "Pendhet",
+    "kramainggil": "Pundhut",
+    "ngoko": "Jupuk"
+  },
+  {
+    "indonesia": "Mengambil",
+    "kramaalus": "Mendhet",
+    "kramainggil": "Mundhut",
+    "ngoko": "Njupuk"
+  },
+  {
+    "indonesia": "Mencuri",
+    "kramaalus": "Memendhet",
+    "kramainggil": "Memendhet",
+    "ngoko": "Njejupuk"
+  },
+  {
+    "indonesia": "Semua",
+    "kramaalus": "Sedaya",
+    "kramainggil": "Sedaya",
+    "ngoko": "Kabeh"
+  },
+  {
+    "indonesia": "Beda",
+    "kramaalus": "Kaot",
+    "kramainggil": "Kaot",
+    "ngoko": "Kacek"
+  },
+  {
+    "indonesia": "Istimewa",
+    "kramaalus": "Kinaot",
+    "kramainggil": "Kinaot",
+    "ngoko": "Kinacek"
+  },
+  {
+    "indonesia": "Mengaji",
+    "kramaalus": "Ngaos",
+    "kramainggil": "Ngaos",
+    "ngoko": "Ngaji"
+  },
+  {
+    "indonesia": "Pengajian",
+    "kramaalus": "Pengaosan",
+    "kramainggil": "Pengaosan",
+    "ngoko": "Pengajian"
+  },
+  {
+    "indonesia": "Naik Haji",
+    "kramaalus": "Minggah Kaji",
+    "kramainggil": "Minggah Kji",
+    "ngoko": "Munggah Kaji"
+  },
+  {
+    "indonesia": "Kakak",
+    "kramaalus": "Kakang",
+    "kramainggil": "Kangmas",
+    "ngoko": "Kakang"
+  },
+  {
+    "indonesia": "Kalah",
+    "kramaalus": "Kawon",
+    "kramainggil": "Kasoran",
+    "ngoko": "Kalah"
+  },
+  {
+    "indonesia": "Mengalah",
+    "kramaalus": "Ngawon",
+    "kramainggil": "Ngawon",
+    "ngoko": "Ngalah"
+  },
+  {
+    "indonesia": "Sungai",
+    "kramaalus": "Lepen",
+    "kramainggil": "Lepen",
+    "ngoko": "Kali"
+  },
+  {
+    "indonesia": "Kalung",
+    "kramaalus": "Kalung",
+    "kramainggil": "Sangsangan",
+    "ngoko": "Kalung"
+  },
+  {
+    "indonesia": "Kelapa",
+    "kramaalus": "Klapa",
+    "kramainggil": "Klapa",
+    "ngoko": "Kambil"
+  },
+  {
+    "indonesia": "Pimpinan Desa",
+    "kramaalus": "Kami Sepuh",
+    "kramainggil": "Kami Sepuh",
+    "ngoko": "Kami Tuwa"
+  },
+  {
+    "indonesia": "Sana",
+    "kramaalus": "Rika",
+    "kramainggil": "Rika",
+    "ngoko": "Kana"
+  },
+  {
+    "indonesia": "Teman",
+    "kramaalus": "Rencang",
+    "kramainggil": "Rencang",
+    "ngoko": "Kanca"
+  },
+  {
+    "indonesia": "Berkata",
+    "kramaalus": "Criyos",
+    "kramainggil": "Ngendhika, Matur",
+    "ngoko": "Kandha"
+  },
+  {
+    "indonesia": "Kapan",
+    "kramaalus": "Benjing Menapa, Kala Menap, Kajeng",
+    "kramainggil": "Benjing Menapa, Kala Menapa, Kersa",
+    "ngoko": "Kapan"
+  },
+  {
+    "indonesia": "Kehendak",
+    "kramaalus": "Kajeng",
+    "kramainggil": "Kersa",
+    "ngoko": "Karep"
+  },
+  {
+    "indonesia": "Biarlah",
+    "kramaalus": "Kajengipun",
+    "kramainggil": "Kersanipun",
+    "ngoko": "Karepe"
+  },
+  {
+    "indonesia": "Tertinggal",
+    "kramaalus": "Kantun",
+    "kramainggil": "Kantun",
+    "ngoko": "Kari"
+  },
+  {
+    "indonesia": "Ternyata",
+    "kramaalus": "Kantun-kantun",
+    "kramainggil": "Kantun-kantun",
+    "ngoko": "Kari-kari"
+  },
+  {
+    "indonesia": "Dengan",
+    "kramaalus": "Kaliyan",
+    "kramainggil": "Kaliyan",
+    "ngoko": "Karo"
+  },
+  {
+    "indonesia": "Keduanya",
+    "kramaalus": "Kalih-kalihipun",
+    "kramainggil": "Kalih-kalihipun",
+    "ngoko": "Karo-karone"
+  },
+  {
+    "indonesia": "Tentu",
+    "kramaalus": "Kantenan",
+    "kramainggil": "Kantenan",
+    "ngoko": "Karuwan"
+  },
+  {
+    "indonesia": "Tidak Tentu",
+    "kramaalus": "Mboten kantentan",
+    "kramainggil": "Mboten kantentan",
+    "ngoko": "Ora karuwan"
+  },
+  {
+    "indonesia": "Celana",
+    "kramaalus": "Suwal",
+    "kramainggil": "Lancingan",
+    "ngoko": "Katok"
+  },
+  {
+    "indonesia": "Bercelana",
+    "kramaalus": "Suwalan",
+    "kramainggil": "Lancingan",
+    "ngoko": "Kathokan"
+  },
+  {
+    "indonesia": "Ke",
+    "kramaalus": "Kaping",
+    "kramainggil": "Kaping",
+    "ngoko": "Kaping"
+  },
+  {
+    "indonesia": "Kerbau",
+    "kramaalus": "Maesa",
+    "kramainggil": "Maesa",
+    "ngoko": "Kebo"
+  },
+  {
+    "indonesia": "Kuat",
+    "kramaalus": "Kuwawi",
+    "kramainggil": "Kuwawi",
+    "ngoko": "Kuat"
+  },
+  {
+    "indonesia": "Keguguran",
+    "kramaalus": "Keluron",
+    "kramainggil": "Terag",
+    "ngoko": "Keluron"
+  },
+  {
+    "indonesia": "Bunga",
+    "kramaalus": "Sekar",
+    "kramainggil": "Sekar",
+    "ngoko": "Kembang"
+  },
+  {
+    "indonesia": "Hiasan",
+    "kramaalus": "Sekaran",
+    "kramainggil": "Sekaran",
+    "ngoko": "Kembangan"
+  },
+  {
+    "indonesia": "Bunga tiga warna",
+    "kramaalus": "Sekar tigan",
+    "kramainggil": "Sekar tigan",
+    "ngoko": "Kembang telon"
+  },
+  {
+    "indonesia": "Kemenyan",
+    "kramaalus": "Sela",
+    "kramainggil": "Sela",
+    "ngoko": "Kemenyan"
+  },
+  {
+    "indonesia": "Kumur",
+    "kramaalus": "Kemu",
+    "kramainggil": "Kembeng",
+    "ngoko": "Kemu"
+  },
+  {
+    "indonesia": "Berkumur",
+    "kramaalus": "Kekemon",
+    "kramainggil": "Kekembeng",
+    "ngoko": "Kekemon"
+  },
+  {
+    "indonesia": "Selimut",
+    "kramaalus": "Kemul",
+    "kramainggil": "Singeb",
+    "ngoko": "Kemul"
+  },
+  {
+    "indonesia": "Berselimut",
+    "kramaalus": "Kemulan",
+    "kramainggil": "Singeban",
+    "ngoko": "Kemulan"
+  },
+  {
+    "indonesia": "Boleh",
+    "kramaalus": "Kenging",
+    "kramainggil": "Kenging",
+    "ngoko": "Kena"
+  },
+  {
+    "indonesia": "Mengenai",
+    "kramaalus": "Ngengingi",
+    "kramainggil": "Ngengingi",
+    "ngoko": "Ngenani"
+  },
+  {
+    "indonesia": "sini",
+    "kramaalus": "Riki",
+    "kramainggil": "Riki",
+    "ngoko": "Kene"
+  },
+  {
+    "indonesia": "Begitu",
+    "kramaalus": "Mekaten",
+    "kramainggil": "Mekaten",
+    "ngoko": "Mengkene"
+  },
+  {
+    "indonesia": "Bagaimana",
+    "kramaalus": "Kados pundi",
+    "kramainggil": "Kados pundi",
+    "ngoko": "Kepriye"
+  },
+  {
+    "indonesia": "Dikelilingi",
+    "kramaalus": "Kepang",
+    "kramainggil": "Kepang",
+    "ngoko": "Kepung"
+  },
+  {
+    "indonesia": "Kenduri",
+    "kramaalus": "Kepangan",
+    "kramainggil": "Kepangan",
+    "ngoko": "Kepungan"
+  },
+  {
+    "indonesia": "Sering",
+    "kramaalus": "Asring, sering",
+    "kramainggil": "Asring, sering",
+    "ngoko": "Kerep"
+  },
+  {
+    "indonesia": "Keris",
+    "kramaalus": "Duwung",
+    "kramainggil": "Wangkingan",
+    "ngoko": "Keris"
+  },
+  {
+    "indonesia": "Tergesa-gesa",
+    "kramaalus": "Kesesa",
+    "kramainggil": "Kesesa",
+    "ngoko": "Kesusu"
+  },
+  {
+    "indonesia": "Kentara",
+    "kramaalus": "Ketawis, ketingal",
+    "kramainggil": "Ketawis, ketingal",
+    "ngoko": "Ketara"
+  },
+  {
+    "indonesia": "Menampakkan diri",
+    "kramaalus": "Ngetawis, ngetingal",
+    "kramainggil": "Ngetawis, ngetingal",
+    "ngoko": "Ngetara"
+  },
+  {
+    "indonesia": "Menunjukan tanda",
+    "kramaalus": "Ngetawisi",
+    "kramainggil": "Ngetawisi",
+    "ngoko": "Ngetarani"
+  },
+  {
+    "indonesia": "Kelihatan",
+    "kramaalus": "Ketingal",
+    "kramainggil": "Ketingal",
+    "ngoko": "Ketok"
+  },
+  {
+    "indonesia": "Terbayang",
+    "kramaalus": "Tetingalen",
+    "kramainggil": "Tetingalen",
+    "ngoko": "Ketok-ketoken"
+  },
+  {
+    "indonesia": "Nisan",
+    "kramaalus": "Kijing",
+    "kramainggil": "Sekaran",
+    "ngoko": "Kijing"
+  },
+  {
+    "indonesia": "Ini",
+    "kramaalus": "Menika",
+    "kramainggil": "Menika",
+    "ngoko": "Niki"
+  },
+  {
+    "indonesia": "Sirih",
+    "kramaalus": "Ganten",
+    "kramainggil": "Ganten",
+    "ngoko": "Kinang"
+  },
+  {
+    "indonesia": "Kira",
+    "kramaalus": "Kinten",
+    "kramainggil": "Kinten",
+    "ngoko": "Kira"
+  },
+  {
+    "indonesia": "Kira-kira",
+    "kramaalus": "Kinten-kinten",
+    "kramainggil": "Kinten-kinten",
+    "ngoko": "Kira-kira"
+  },
+  {
+    "indonesia": "Mengira",
+    "kramaalus": "Nginten",
+    "kramainggil": "Nginten",
+    "ngoko": "Ngira"
+  },
+  {
+    "indonesia": "Kirim",
+    "kramaalus": "Kintun",
+    "kramainggil": "Kintun",
+    "ngoko": "Kirim"
+  },
+  {
+    "indonesia": "Mengirim",
+    "kramaalus": "Ngintun",
+    "kramainggil": "Ngintun",
+    "ngoko": "Ngirim"
+  },
+  {
+    "indonesia": "Baju",
+    "kramaalus": "Rasukan",
+    "kramainggil": "Rasukan",
+    "ngoko": "Klambi"
+  },
+  {
+    "indonesia": "Tikar",
+    "kramaalus": "Gelaran",
+    "kramainggil": "Gelaran",
+    "ngoko": "Klasa"
+  },
+  {
+    "indonesia": "Kliru",
+    "kramaalus": "Klintu",
+    "kramainggil": "Klintu",
+    "ngoko": "Kleru"
+  },
+  {
+    "indonesia": "Kumpul",
+    "kramaalus": "Klempak",
+    "kramainggil": "Klempak",
+    "ngoko": "Klumpuk"
+  },
+  {
+    "indonesia": "Kumpulan",
+    "kramaalus": "Klempakan",
+    "kramainggil": "Klempakan",
+    "ngoko": "Klumpukan"
+  },
+  {
+    "indonesia": "Berkumpul",
+    "kramaalus": "Nglempak",
+    "kramainggil": "Nglempak",
+    "ngoko": "Nglumpuk"
+  },
+  {
+    "indonesia": "Kau suruh",
+    "kramaalus": "Sampeyan kengken",
+    "kramainggil": "Panjenengan Dhawuh",
+    "ngoko": "Kok kongkon"
+  },
+  {
+    "indonesia": "Suruhan",
+    "kramaalus": "Kengkenan",
+    "kramainggil": "Utusan, Dhawuhan",
+    "ngoko": "Kongkonan"
+  },
+  {
+    "indonesia": "Situ",
+    "kramaalus": "Riku",
+    "kramainggil": "Riku",
+    "ngoko": "Kono"
+  },
+  {
+    "indonesia": "Kamu",
+    "kramaalus": "Sampeyan",
+    "kramainggil": "Panjenengan",
+    "ngoko": "Kowe"
+  },
+  {
+    "indonesia": "Mandi jamas",
+    "kramaalus": "Kramas",
+    "kramainggil": "Jamas",
+    "ngoko": "Kramas"
+  },
+  {
+    "indonesia": "Terasa",
+    "kramaalus": "Kraos",
+    "kramainggil": "Kraos",
+    "ngoko": "Krasa"
+  },
+  {
+    "indonesia": "Betah",
+    "kramaalus": "Kraos",
+    "kramainggil": "Kraos",
+    "ngoko": "Krasan"
+  },
+  {
+    "indonesia": "Keringat",
+    "kramaalus": "Kringet",
+    "kramainggil": "Riwe",
+    "ngoko": "Kringet"
+  },
+  {
+    "indonesia": "Kubur",
+    "kramaalus": "Petak",
+    "kramainggil": "Sare",
+    "ngoko": "Kubur"
+  },
+  {
+    "indonesia": "Makam",
+    "kramaalus": "Kuburan",
+    "kramainggil": "Pasareyan",
+    "ngoko": "Kuburan"
+  },
+  {
+    "indonesia": "Mengubur",
+    "kramaalus": "Metak",
+    "kramainggil": "Nyarekaken",
+    "ngoko": "Ngubur"
+  },
+  {
+    "indonesia": "Harus",
+    "kramaalus": "Kedah",
+    "kramainggil": "Kedah",
+    "ngoko": "Kudu"
+  },
+  {
+    "indonesia": "Terlahir",
+    "kramaalus": "Kedalan",
+    "kramainggil": "Wiyosan",
+    "ngoko": "Kelahiran"
+  },
+  {
+    "indonesia": "Lahir batin",
+    "kramaalus": "Lair batos",
+    "kramainggil": "Lair batos",
+    "ngoko": "Lair batin"
+  },
+  {
+    "indonesia": "Suami",
+    "kramaalus": "Semah",
+    "kramainggil": "Garwa",
+    "ngoko": "Bojo (Lanang)"
+  },
+  {
+    "indonesia": "Jalan",
+    "kramaalus": "Lampah",
+    "kramainggil": "Tindak",
+    "ngoko": "Laku"
+  },
+  {
+    "indonesia": "Cerita",
+    "kramaalus": "Lampahan, cariyos",
+    "kramainggil": "Lampahan, cariyos",
+    "ngoko": "Lakon"
+  },
+  {
+    "indonesia": "Terlaksana",
+    "kramaalus": "Kelampahan",
+    "kramainggil": "Kelampahan",
+    "ngoko": "Kelakon"
+  },
+  {
+    "indonesia": "Jalan-jalan",
+    "kramaalus": "Mlampah-mlampah",
+    "kramainggil": "Tindak-tindak",
+    "ngoko": "Mlaku-mlaku"
+  },
+  {
+    "indonesia": "Menjalankan",
+    "kramaalus": "Nglampahi",
+    "kramainggil": "Nindakaken",
+    "ngoko": "Nglakoni"
+  },
+  {
+    "indonesia": "Berjalan",
+    "kramaalus": "Mlampah",
+    "kramainggil": "Tindak",
+    "ngoko": "Mlaku"
+  },
+  {
+    "indonesia": "Lupa",
+    "kramaalus": "Supe",
+    "kramainggil": "Supe",
+    "ngoko": "Lali"
+  },
+  {
+    "indonesia": "Terlupa",
+    "kramaalus": "Kesupen",
+    "kramainggil": "Kesupen",
+    "ngoko": "Kelalen"
+  },
+  {
+    "indonesia": "Pelupa",
+    "kramaalus": "Supenan",
+    "kramainggil": "Supenan",
+    "ngoko": "Lalen"
+  },
+  {
+    "indonesia": "Bibir",
+    "kramaalus": "Lambe",
+    "kramainggil": "Lathi",
+    "ngoko": "Lambe"
+  },
+  {
+    "indonesia": "Penting",
+    "kramaalus": "Gatos",
+    "kramainggil": "Gatos",
+    "ngoko": "Gati"
+  },
+  {
+    "indonesia": "Penting",
+    "kramaalus": "Wigatos",
+    "kramainggil": "Wigatos",
+    "ngoko": "Wigati"
+  },
+  {
+    "indonesia": "Perhatian",
+    "kramaalus": "Kawigatosan",
+    "kramainggil": "Kawigatosan",
+    "ngoko": "Kawigaten"
+  },
+  {
+    "indonesia": "Bawa",
+    "kramaalus": "Bekta",
+    "kramainggil": "Ambil",
+    "ngoko": "Gawa"
+  },
+  {
+    "indonesia": "Membawa",
+    "kramaalus": "Mbekta",
+    "kramainggil": "Ngambil",
+    "ngoko": "Nggawa"
+  },
+  {
+    "indonesia": "Bawaan",
+    "kramaalus": "Bektan",
+    "kramainggil": "Ampilan",
+    "ngoko": "Gawan"
+  },
+  {
+    "indonesia": "Bekerja",
+    "kramaalus": "Damel",
+    "kramainggil": "Ngasta",
+    "ngoko": "Gawe"
+  },
+  {
+    "indonesia": "Pisang",
+    "kramaalus": "Pisang",
+    "kramainggil": "Pisang",
+    "ngoko": "Gedhang"
+  },
+  {
+    "indonesia": "Besar",
+    "kramaalus": "Ageng",
+    "kramainggil": "Ageng",
+    "ngoko": "Gedhe"
+  },
+  {
+    "indonesia": "Pembesar",
+    "kramaalus": "Pengageng",
+    "kramainggil": "Pengageng",
+    "ngoko": "Penggedhe"
+  },
+  {
+    "indonesia": "Punggung",
+    "kramaalus": "Geger",
+    "kramainggil": "Pengekeran",
+    "ngoko": "Geger"
+  },
+  {
+    "indonesia": "Gelang",
+    "kramaalus": "Gelang",
+    "kramainggil": "Binggel",
+    "ngoko": "Gelang"
+  },
+  {
+    "indonesia": "Mau",
+    "kramaalus": "Purun",
+    "kramainggil": "Kersa",
+    "ngoko": "Gelem"
+  },
+  {
+    "indonesia": "Penurut",
+    "kramaalus": "Purunan",
+    "kramainggil": "Purunan",
+    "ngoko": "Geleman"
+  },
+  {
+    "indonesia": "Gelung",
+    "kramaalus": "Gelung",
+    "kramainggil": "Ukel",
+    "ngoko": "Gelung"
+  },
+  {
+    "indonesia": "Mengapa",
+    "kramaalus": "Kenging menapa",
+    "kramainggil": "Kenging menapa",
+    "ngoko": "Ganeya"
+  },
+  {
+    "indonesia": "Lengap",
+    "kramaalus": "Jangkep",
+    "kramainggil": "Jangkep",
+    "ngoko": "Genep"
+  },
+  {
+    "indonesia": "Melengkapi",
+    "kramaalus": "Njangkepi",
+    "kramainggil": "Njangkepi",
+    "ngoko": "Ngganepi"
+  },
+  {
+    "indonesia": "Api",
+    "kramaalus": "Latu",
+    "kramainggil": "Grama",
+    "ngoko": "Geni"
+  },
+  {
+    "indonesia": "Gilir",
+    "kramaalus": "Gentos",
+    "kramainggil": "Gentos",
+    "ngoko": "Genti"
+  },
+  {
+    "indonesia": "Ganti",
+    "kramaalus": "Gentos",
+    "kramainggil": "Gentos",
+    "ngoko": "Genti"
+  },
+  {
+    "indonesia": "Bergilir",
+    "kramaalus": "Gentosan",
+    "kramainggil": "Gentosan",
+    "ngoko": "Gantenan"
+  },
+  {
+    "indonesia": "Kurus",
+    "kramaalus": "Kera",
+    "kramainggil": "Susut",
+    "ngoko": "Gering"
+  },
+  {
+    "indonesia": "Sakit",
+    "kramaalus": "Sakit",
+    "kramainggil": "Gerah",
+    "ngoko": "Gering"
+  },
+  {
+    "indonesia": "Darah",
+    "kramaalus": "Rah",
+    "kramainggil": "Rah",
+    "ngoko": "Getih"
+  },
+  {
+    "indonesia": "Tengkuk",
+    "kramaalus": "Githok",
+    "kramainggil": "Griwa",
+    "ngoko": "Githok"
+  },
+  {
+    "indonesia": "Daun",
+    "kramaalus": "Ron",
+    "kramainggil": "Ron",
+    "ngoko": "Godhong"
+  },
+  {
+    "indonesia": "Dedaunan",
+    "kramaalus": "Ron-ronan",
+    "kramainggil": "Ron-ronan",
+    "ngoko": "Gegodhongan"
+  },
+  {
+    "indonesia": "Cari",
+    "kramaalus": "Pados",
+    "kramainggil": "Pados",
+    "ngoko": "Golek"
+  },
+  {
+    "indonesia": "Mencari-cari",
+    "kramaalus": "Pados-pados",
+    "kramainggil": "Pados-pados",
+    "ngoko": "Golek-golek"
+  },
+  {
+    "indonesia": "Yang dicari",
+    "kramaalus": "Padosan",
+    "kramainggil": "Padosan",
+    "ngoko": "Golekan"
+  },
+  {
+    "indonesia": "Mencari",
+    "kramaalus": "Madosi",
+    "kramainggil": "Madosi",
+    "ngoko": "Nggoleki"
+  },
+  {
+    "indonesia": "Bohong",
+    "kramaalus": "Dora",
+    "kramainggil": "Dora",
+    "ngoko": "Goroh"
+  },
+  {
+    "indonesia": "Bangun",
+    "kramaalus": "Gigah",
+    "kramainggil": "Wungu",
+    "ngoko": "Gugah"
+  },
+  {
+    "indonesia": "Adu",
+    "kramaalus": "Gigat",
+    "kramainggil": "Gigat",
+    "ngoko": "Gugat"
+  },
+  {
+    "indonesia": "Taat",
+    "kramaalus": "Gega",
+    "kramainggil": "Ngestokaken",
+    "ngoko": "Gugu"
+  },
+  {
+    "indonesia": "Gula",
+    "kramaalus": "Gendhis",
+    "kramainggil": "Gendhis",
+    "ngoko": "Gula"
+  },
+  {
+    "indonesia": "Leher",
+    "kramaalus": "Gulu",
+    "kramainggil": "Jangga",
+    "ngoko": "Gulu"
+  },
+  {
+    "indonesia": "Guna",
+    "kramaalus": "Gina",
+    "kramainggil": "Gina",
+    "ngoko": "Guna"
+  },
+  {
+    "indonesia": "Menggunakan",
+    "kramaalus": "Ngginakake",
+    "kramainggil": "Ngginakake",
+    "ngoko": "Nggunakake"
+  },
+  {
+    "indonesia": "Bicara",
+    "kramaalus": "Gineman",
+    "kramainggil": "Ngendikan",
+    "ngoko": "Gunem"
+  },
+  {
+    "indonesia": "Gunung",
+    "kramaalus": "Redi",
+    "kramainggil": "Redi",
+    "ngoko": "Gunung"
+  },
+  {
+    "indonesia": "Pegunungan",
+    "kramaalus": "Pareden",
+    "kramainggil": "Pareden",
+    "ngoko": "Pegunungan"
+  },
+  {
+    "indonesia": "Tawa",
+    "kramaalus": "Gujeng",
+    "kramainggil": "Gujeng",
+    "ngoko": "Guyu"
+  },
+  {
+    "indonesia": "Tertawa",
+    "kramaalus": "Gumujeng",
+    "kramainggil": "Gumujeng",
+    "ngoko": "Gumuyu"
+  },
+  {
+    "indonesia": "Bercanda",
+    "kramaalus": "Gegujengan",
+    "kramainggil": "Gegujengan",
+    "ngoko": "Guyon"
+  },
+  {
+    "indonesia": "Menertawakan",
+    "kramaalus": "Gegujeng",
+    "kramainggil": "Gegujeng",
+    "ngoko": "Nggeguyu"
+  },
+  {
+    "indonesia": "Ludah",
+    "kramaalus": "Idu",
+    "kramainggil": "Kecoh",
+    "ngoko": "Idu"
+  },
+  {
+    "indonesia": "Hijau",
+    "kramaalus": "Ijem",
+    "kramainggil": "Ijem",
+    "ngoko": "Ijo"
+  },
+  {
+    "indonesia": "Tukar",
+    "kramaalus": "Lintu",
+    "kramainggil": "Lintu",
+    "ngoko": "Ijol"
+  },
+  {
+    "indonesia": "Itu",
+    "kramaalus": "Menika",
+    "kramainggil": "Menika",
+    "ngoko": "Ika"
+  },
+  {
+    "indonesia": "Ikat kepala",
+    "kramaalus": "Udheng",
+    "kramainggil": "Dhestar",
+    "ngoko": "Iket"
+  },
+  {
+    "indonesia": "Ini",
+    "kramaalus": "Menika",
+    "kramainggil": "Menika",
+    "ngoko": "Iki"
+  },
+  {
+    "indonesia": "Itu",
+    "kramaalus": "Menika",
+    "kramainggil": "Menika",
+    "ngoko": "Iku"
+  },
+  {
+    "indonesia": "Hilang",
+    "kramaalus": "Ical",
+    "kramainggil": "Ical",
+    "ngoko": "Ilang"
+  },
+  {
+    "indonesia": "Kehilangan",
+    "kramaalus": "Kecalan",
+    "kramainggil": "Kecalan",
+    "ngoko": "Kelangan"
+  },
+  {
+    "indonesia": "Cermin",
+    "kramaalus": "Ilo",
+    "kramainggil": "Paningalan",
+    "ngoko": "Ilo"
+  },
+  {
+    "indonesia": "Peram",
+    "kramaalus": "Imbet",
+    "kramainggil": "Imbet",
+    "ngoko": "Imbu"
+  },
+  {
+    "indonesia": "Peraman",
+    "kramaalus": "Imbetan",
+    "kramainggil": "Imbetan",
+    "ngoko": "Imbon"
+  },
+  {
+    "indonesia": "Tambah makan",
+    "kramaalus": "Imbetan",
+    "kramainggil": "Tanduk",
+    "ngoko": "Imbuh"
+  },
+  {
+    "indonesia": "Inap",
+    "kramaalus": "Sipeng",
+    "kramainggil": "Sipeng",
+    "ngoko": "Inep"
+  },
+  {
+    "indonesia": "Bermalam",
+    "kramaalus": "Nyipeng",
+    "kramainggil": "Nyare",
+    "ngoko": "Nginep"
+  },
+  {
+    "indonesia": "Intan",
+    "kramaalus": "Sela",
+    "kramainggil": "Sela",
+    "ngoko": "Inten"
+  },
+  {
+    "indonesia": "Piara",
+    "kramaalus": "Ingah",
+    "kramainggil": "Ingah",
+    "ngoko": "Ingu"
+  },
+  {
+    "indonesia": "Ternak",
+    "kramaalus": "Ingah",
+    "kramainggil": "Ingah",
+    "ngoko": "Ingon"
+  },
+  {
+    "indonesia": "Memelihara",
+    "kramaalus": "Ngingah",
+    "kramainggil": "Ngingah",
+    "ngoko": "Ngingu"
+  },
+  {
+    "indonesia": "Hitam",
+    "kramaalus": "Cemeng",
+    "kramainggil": "Cemeng",
+    "ngoko": "Ireng"
+  },
+  {
+    "indonesia": "Mengiring",
+    "kramaalus": "Iring",
+    "kramainggil": "Ndherek",
+    "ngoko": "Iring"
+  },
+  {
+    "indonesia": "Hidung",
+    "kramaalus": "Irung",
+    "kramainggil": "Grana",
+    "ngoko": "Irung"
+  },
+  {
+    "indonesia": "Masih",
+    "kramaalus": "Taksih",
+    "kramainggil": "Taksih",
+    "ngoko": "Isih"
+  },
+  {
+    "indonesia": "Malu",
+    "kramaalus": "Lingsem",
+    "kramainggil": "Lingsem",
+    "ngoko": "Isin"
+  },
+  {
+    "indonesia": "Memalukan",
+    "kramaalus": "Ngelingsemaken",
+    "kramainggil": "Ngelingsemaken",
+    "ngoko": "Ngisin-isinake"
+  },
+  {
+    "indonesia": "Memalukan",
+    "kramaalus": "Ngelingsemi",
+    "kramainggil": "Ngelingsemi",
+    "ngoko": "Ngisin-isini"
+  },
+  {
+    "indonesia": "Buang hajat",
+    "kramaalus": "Bebucal",
+    "kramainggil": "Bobotan",
+    "ngoko": "Ngising"
+  },
+  {
+    "indonesia": "Bawah",
+    "kramaalus": "Andhap",
+    "kramainggil": "Andhap",
+    "ngoko": "Isor"
+  },
+  {
+    "indonesia": "Di bawah",
+    "kramaalus": "Ngandhap",
+    "kramainggil": "Ngandhap",
+    "ngoko": "Ngisor"
+  },
+  {
+    "indonesia": "Ikan",
+    "kramaalus": "Ulam",
+    "kramainggil": "Ulam",
+    "ngoko": "Iwak"
+  },
+  {
+    "indonesia": "Daging",
+    "kramaalus": "Ulam",
+    "kramainggil": "Ulam",
+    "ngoko": "Iwak"
+  },
+  {
+    "indonesia": "Luar",
+    "kramaalus": "Jawi",
+    "kramainggil": "Jawi",
+    "ngoko": "Jaba"
+  },
+  {
+    "indonesia": "Kecuali",
+    "kramaalus": "Kejawi",
+    "kramainggil": "Kejawi",
+    "ngoko": "Kejaba"
+  },
+  {
+    "indonesia": "Di luar",
+    "kramaalus": "Njawi",
+    "kramainggil": "Njawi",
+    "ngoko": "Njaba"
+  },
+  {
+    "indonesia": "Jaga",
+    "kramaalus": "Jagi",
+    "kramainggil": "Reksa",
+    "ngoko": "Jaga"
+  },
+  {
+    "indonesia": "Jago",
+    "kramaalus": "Sawung",
+    "kramainggil": "Sawung",
+    "ngoko": "Jago"
+  },
+  {
+    "indonesia": "Mencalonkan",
+    "kramaalus": "Nyawungaken",
+    "kramainggil": "Nyawungaken",
+    "ngoko": "Ngajokake"
+  },
+  {
+    "indonesia": "Duduk",
+    "kramaalus": "Jagong",
+    "kramainggil": "Lenggah",
+    "ngoko": "Jagong"
+  },
+  {
+    "indonesia": "Duduk-duduk",
+    "kramaalus": "Jagongan",
+    "kramainggil": "Lenggahan",
+    "ngoko": "Jagongan"
+  },
+  {
+    "indonesia": "Taji",
+    "kramaalus": "Jalu",
+    "kramainggil": "Jalu",
+    "ngoko": "Jalu"
+  },
+  {
+    "indonesia": "Pinta",
+    "kramaalus": "Tedha",
+    "kramainggil": "Pundhut",
+    "ngoko": "Jaluk"
+  },
+  {
+    "indonesia": "Minta",
+    "kramaalus": "Nedha",
+    "kramainggil": "Mundhut",
+    "ngoko": "Njaluk"
+  },
+  {
+    "indonesia": "Minta",
+    "kramaalus": "Nedha",
+    "kramainggil": "Nyuwun",
+    "ngoko": "Njaluk"
+  },
+  {
+    "indonesia": "Jam",
+    "kramaalus": "Jam",
+    "kramainggil": "Jam",
+    "ngoko": "Jam"
+  },
+  {
+    "indonesia": "Jamu",
+    "kramaalus": "Jampi",
+    "kramainggil": "Loloh",
+    "ngoko": "Jamu"
+  },
+  {
+    "indonesia": "Berobat",
+    "kramaalus": "Jejampi",
+    "kramainggil": "Loloh",
+    "ngoko": "Jejamu"
+  },
+  {
+    "indonesia": "Mengobati",
+    "kramaalus": "Jampeni",
+    "kramainggil": "Nglolohi",
+    "ngoko": "Njamoni"
+  },
+  {
+    "indonesia": "Dagu",
+    "kramaalus": "Janggut",
+    "kramainggil": "Kenthekan",
+    "ngoko": "Janggut"
+  },
+  {
+    "indonesia": "Kuda",
+    "kramaalus": "Kapal",
+    "kramainggil": "Turangga",
+    "ngoko": "Jaran"
+  },
+  {
+    "indonesia": "Katanya",
+    "kramaalus": "Cariyosipun",
+    "kramainggil": "Cariyosipun",
+    "ngoko": "Jare"
+  },
+  {
+    "indonesia": "Kain panjang",
+    "kramaalus": "Sinjang",
+    "kramainggil": "Nyamping",
+    "ngoko": "Jarit"
+  },
+  {
+    "indonesia": "Arti",
+    "kramaalus": "Jarwi",
+    "kramainggil": "Jarwi",
+    "ngoko": "Jerwa"
+  },
+  {
+    "indonesia": "Menjelaskan",
+    "kramaalus": "Njarwakaken",
+    "kramainggil": "Njarwakaken",
+    "ngoko": "Njarwakake"
+  },
+  {
+    "indonesia": "Jati",
+    "kramaalus": "Jatos",
+    "kramainggil": "Jatos",
+    "ngoko": "Jati"
+  },
+  {
+    "indonesia": "Kayu jati",
+    "kramaalus": "Kajeng jatos",
+    "kramainggil": "Kajeng jatos",
+    "ngoko": "Kayu jati"
+  },
+  {
+    "indonesia": "Sejati",
+    "kramaalus": "Sejatos",
+    "kramainggil": "Sejatos",
+    "ngoko": "Sejati"
+  },
+  {
+    "indonesia": "Jawa",
+    "kramaalus": "Jawi",
+    "kramainggil": "Jawi",
+    "ngoko": "Jawa"
+  },
+  {
+    "indonesia": "Seperti jawa",
+    "kramaalus": "Njaweni",
+    "kramainggil": "Njaweni",
+    "ngoko": "Njawani"
+  },
+  {
+    "indonesia": "Nama",
+    "kramaalus": "Nama",
+    "kramainggil": "Asma",
+    "ngoko": "Jeneng"
+  },
+  {
+    "indonesia": "Pria",
+    "kramaalus": "Jaler",
+    "kramainggil": "Kakung",
+    "ngoko": "Lanang"
+  },
+  {
+    "indonesia": "Jantan",
+    "kramaalus": "Jaleran",
+    "kramainggil": "Jaleran",
+    "ngoko": "Lanangan"
+  },
+  {
+    "indonesia": "Sakit",
+    "kramaalus": "Sakit",
+    "kramainggil": "Gerah",
+    "ngoko": "Lara"
+  },
+  {
+    "indonesia": "Sakit hati",
+    "kramaalus": "Kesakit-sakit",
+    "kramainggil": "Kesakit-sakit",
+    "ngoko": "Kelara-lara"
+  },
+  {
+    "indonesia": "Kesakitan",
+    "kramaalus": "Kesakitan",
+    "kramainggil": "Kesakitan",
+    "ngoko": "Kelaran"
+  },
+  {
+    "indonesia": "Penyakit",
+    "kramaalus": "Sesakit",
+    "kramainggil": "Sesakit",
+    "ngoko": "Lelara"
+  },
+  {
+    "indonesia": "Menyakiti",
+    "kramaalus": "Nyakiti",
+    "kramainggil": "Nyakiti",
+    "ngoko": "Nglarani"
+  },
+  {
+    "indonesia": "Mahal",
+    "kramaalus": "Awis",
+    "kramainggil": "Awis",
+    "ngoko": "Larang"
+  },
+  {
+    "indonesia": "Pintu",
+    "kramaalus": "Konten",
+    "kramainggil": "Konten",
+    "ngoko": "Lawang"
+  },
+  {
+    "indonesia": "Lama",
+    "kramaalus": "Lami",
+    "kramainggil": "Lami",
+    "ngoko": "Lawas"
+  },
+  {
+    "indonesia": "Bekas",
+    "kramaalus": "Lamen",
+    "kramainggil": "Lamen",
+    "ngoko": "Lawasan"
+  },
+  {
+    "indonesia": "Dalam",
+    "kramaalus": "Lebet",
+    "kramainggil": "Lebet",
+    "ngoko": "Jero"
+  },
+  {
+    "indonesia": "Termasuk",
+    "kramaalus": "Kelebet",
+    "kramainggil": "Kelebet",
+    "ngoko": "Kelebu"
+  },
+  {
+    "indonesia": "Kemasukan",
+    "kramaalus": "Kelebetan",
+    "kramainggil": "Kelebetan",
+    "ngoko": "Kelebon"
+  },
+  {
+    "indonesia": "Masuk",
+    "kramaalus": "Mlebet",
+    "kramainggil": "Mlebet",
+    "ngoko": "Melbu"
+  },
+  {
+    "indonesia": "Terjaga",
+    "kramaalus": "Melek",
+    "kramainggil": "Wungu",
+    "ngoko": "Melek"
+  },
+  {
+    "indonesia": "Tanah",
+    "kramaalus": "Siti",
+    "kramainggil": "Siti",
+    "ngoko": "Lemah"
+  },
+  {
+    "indonesia": "Almari",
+    "kramaalus": "Lemantun",
+    "kramainggil": "Lemantun",
+    "ngoko": "Lemari"
+  },
+  {
+    "indonesia": "Halus",
+    "kramaalus": "Lembat",
+    "kramainggil": "Lembat",
+    "ngoko": "Lembut"
+  },
+  {
+    "indonesia": "Gemuk",
+    "kramaalus": "Lemu",
+    "kramainggil": "Lemu",
+    "ngoko": "Lemu"
+  },
+  {
+    "indonesia": "Istirahat",
+    "kramaalus": "Kendel",
+    "kramainggil": "Kendel",
+    "ngoko": "Leren"
+  },
+  {
+    "indonesia": "Salah",
+    "kramaalus": "Klintu",
+    "kramainggil": "Klintu",
+    "ngoko": "Kliru"
+  },
+  {
+    "indonesia": "Lewat",
+    "kramaalus": "Langkung",
+    "kramainggil": "Miyos",
+    "ngoko": "Liwat"
+  },
+  {
+    "indonesia": "Kelewat",
+    "kramaalus": "Kelangkung",
+    "kramainggil": "Kelangkung",
+    "ngoko": "Keliwat"
+  },
+  {
+    "indonesia": "Utara",
+    "kramaalus": "Ler",
+    "kramainggil": "Ler",
+    "ngoko": "Lor"
+  },
+  {
+    "indonesia": "Dua",
+    "kramaalus": "Kalih",
+    "kramainggil": "Kalih",
+    "ngoko": "Loro"
+  },
+  {
+    "indonesia": "Bajak",
+    "kramaalus": "Lujeng",
+    "kramainggil": "Lujeng",
+    "ngoko": "Luku"
+  },
+  {
+    "indonesia": "Membajak",
+    "kramaalus": "Mlujeng",
+    "kramainggil": "Mlujeng",
+    "ngoko": "Mluku"
+  },
+  {
+    "indonesia": "Kulit",
+    "kramaalus": "Lulang",
+    "kramainggil": "Cucal",
+    "ngoko": "Lulang"
+  },
+  {
+    "indonesia": "Biasa",
+    "kramaalus": "Limrah",
+    "kramainggil": "Limrah",
+    "ngoko": "Lumrah"
+  },
+  {
+    "indonesia": "Pergi",
+    "kramaalus": "Kesah",
+    "kramainggil": "Tindak",
+    "ngoko": "Lunga"
+  },
+  {
+    "indonesia": "Duduk",
+    "kramaalus": "Lenggah",
+    "kramainggil": "Linggih",
+    "ngoko": "Lungguh"
+  },
+  {
+    "indonesia": "Salah",
+    "kramaalus": "Lepat",
+    "kramainggil": "Lepat",
+    "ngoko": "Luput"
+  },
+  {
+    "indonesia": "Kesalahan",
+    "kramaalus": "Kalepatan",
+    "kramainggil": "Kalepatan",
+    "ngoko": "Kaluputan"
+  },
+  {
+    "indonesia": "Lebih",
+    "kramaalus": "Langkung",
+    "kramainggil": "Langkung",
+    "ngoko": "Luwih"
+  },
+  {
+    "indonesia": "Kelebihan",
+    "kramaalus": "Kelangkungan",
+    "kramainggil": "Kelangkungan",
+    "ngoko": "Keluwihan"
+  },
+  {
+    "indonesia": "Madu",
+    "kramaalus": "Maben",
+    "kramainggil": "Maben",
+    "ngoko": "Madu"
+  },
+  {
+    "indonesia": "Pencuri",
+    "kramaalus": "Pandung",
+    "kramainggil": "Pandung",
+    "ngoko": "Maling"
+  },
+  {
+    "indonesia": "Mengunyah",
+    "kramaalus": "Mamah",
+    "kramainggil": "Nggilut",
+    "ngoko": "Mamah"
+  },
+  {
+    "indonesia": "Sekian",
+    "kramaalus": "Semanten",
+    "kramainggil": "Semanten",
+    "ngoko": "Semana"
+  },
+  {
+    "indonesia": "Berhenti",
+    "kramaalus": "Kendel",
+    "kramainggil": "Kendel",
+    "ngoko": "Mandheg"
+  },
+  {
+    "indonesia": "Tambah",
+    "kramaalus": "Malih",
+    "kramainggil": "Malih",
+    "ngoko": "Maneh"
+  },
+  {
+    "indonesia": "Burung",
+    "kramaalus": "Peksi",
+    "kramainggil": "Peksi",
+    "ngoko": "Manuk"
+  },
+  {
+    "indonesia": "Demikian",
+    "kramaalus": "Mekaten",
+    "kramainggil": "Mekaten",
+    "ngoko": "Mangkana"
+  },
+  {
+    "indonesia": "Sembuh",
+    "kramaalus": "Mantun",
+    "kramainggil": "Dhangan",
+    "ngoko": "Waras"
+  },
+  {
+    "indonesia": "Mata",
+    "kramaalus": "Mripat",
+    "kramainggil": "Paningal",
+    "ngoko": "Mata"
+  },
+  {
+    "indonesia": "Mati",
+    "kramaalus": "Tilar",
+    "kramainggil": "Seda",
+    "ngoko": "Mati"
+  },
+  {
+    "indonesia": "Membunuh",
+    "kramaalus": "Mejahi",
+    "kramainggil": "Nyedani",
+    "ngoko": "Mateni"
+  },
+  {
+    "indonesia": "Tadi",
+    "kramaalus": "Wau",
+    "kramainggil": "Wau",
+    "ngoko": "Mau"
+  },
+  {
+    "indonesia": "Dengan",
+    "kramaalus": "Mawi",
+    "kramainggil": "Mawi",
+    "ngoko": "Mawa"
+  },
+  {
+    "indonesia": "Tergantung",
+    "kramaalus": "Mawi-mawi",
+    "kramainggil": "Mawi-mawi",
+    "ngoko": "Mawa-mawa"
+  },
+  {
+    "indonesia": "Jenazah",
+    "kramaalus": "Jisim",
+    "kramainggil": "Layon",
+    "ngoko": "Mayit"
+  },
+  {
+    "indonesia": "Ikut",
+    "kramaalus": "Tumut",
+    "kramainggil": "Ndherek",
+    "ngoko": "Melok"
+  },
+  {
+    "indonesia": "Menang",
+    "kramaalus": "Mimpang",
+    "kramainggil": "Mimpang",
+    "ngoko": "Menang"
+  },
+  {
+    "indonesia": "Jika",
+    "kramaalus": "Menawi",
+    "kramainggil": "Menawi",
+    "ngoko": "Menawa"
+  },
+  {
+    "indonesia": "Rusa",
+    "kramaalus": "Sangsam",
+    "kramainggil": "Sangsam",
+    "ngoko": "Menjangan"
+  },
+  {
+    "indonesia": "Nanti",
+    "kramaalus": "Mangke",
+    "kramainggil": "Mangke",
+    "ngoko": "Mengko"
+  },
+  {
+    "indonesia": "Baru",
+    "kramaalus": "Nembe",
+    "kramainggil": "Nembe",
+    "ngoko": "Jektas"
+  },
+  {
+    "indonesia": "Ke",
+    "kramaalus": "Dateng",
+    "kramainggil": "Dateng",
+    "ngoko": "Menyang"
+  },
+  {
+    "indonesia": "Karena",
+    "kramaalus": "Margi",
+    "kramainggil": "Margi",
+    "ngoko": "Merga"
+  },
+  {
+    "indonesia": "Hamil",
+    "kramaalus": "Ngandeg",
+    "kramainggil": "Mbobot",
+    "ngoko": "Meteng"
+  },
+  {
+    "indonesia": "Kumpul",
+    "kramaalus": "Kempal",
+    "kramainggil": "Kempal",
+    "ngoko": "Kumpul"
+  },
+  {
+    "indonesia": "Kafan",
+    "kramaalus": "Monten",
+    "kramainggil": "Monten",
+    "ngoko": "Mori"
+  },
+  {
+    "indonesia": "Muat",
+    "kramaalus": "Wrat",
+    "kramainggil": "Wrat",
+    "ngoko": "Mot"
+  },
+  {
+    "indonesia": "Memuat",
+    "kramaalus": "Kawrat",
+    "kramainggil": "Kawrat",
+    "ngoko": "Kamot"
+  },
+  {
+    "indonesia": "Mudah-mudahan",
+    "kramaalus": "Mugi-mugi",
+    "kramainggil": "Mugi-mugi",
+    "ngoko": "Muga-muga"
+  },
+  {
+    "indonesia": "Maka",
+    "kramaalus": "Mila",
+    "kramainggil": "Mila",
+    "ngoko": "Mula"
+  },
+  {
+    "indonesia": "Tambah",
+    "kramaalus": "Mindhak",
+    "kramainggil": "Mindhak",
+    "ngoko": "Mundhak"
+  },
+  {
+    "indonesia": "Hanya",
+    "kramaalus": "Namung",
+    "kramainggil": "Namung",
+    "ngoko": "Mung"
+  },
+  {
+    "indonesia": "Mengenai",
+    "kramaalus": "Menggah",
+    "kramainggil": "Menggah",
+    "ngoko": "Mungguh"
+  },
+  {
+    "indonesia": "Musuh",
+    "kramaalus": "Mengsah",
+    "kramainggil": "Mengsah",
+    "ngoko": "Mungsuh"
+  },
+  {
+    "indonesia": "Bermusuhan",
+    "kramaalus": "Mengsahan",
+    "kramainggil": "Mengsahan",
+    "ngoko": "Mungsuhan"
+  },
+  {
+    "indonesia": "Murah",
+    "kramaalus": "Mirah",
+    "kramainggil": "Mirah",
+    "ngoko": "Mirah"
+  },
+  {
+    "indonesia": "Kemurahan",
+    "kramaalus": "Kemirahan",
+    "kramainggil": "Kemirahan",
+    "ngoko": "Kemurahan"
+  },
+  {
+    "indonesia": "Murahan",
+    "kramaalus": "Mirahan",
+    "kramainggil": "Mirahan",
+    "ngoko": "Murahan"
+  },
+  {
+    "indonesia": "Serba murah",
+    "kramaalus": "Mirah-mirahan",
+    "kramainggil": "Mira-mirahan",
+    "ngoko": "Murah-murahan"
+  },
+  {
+    "indonesia": "Marah",
+    "kramaalus": "Muring",
+    "kramainggil": "Duka",
+    "ngoko": "Muring"
+  },
+  {
+    "indonesia": "Marah-marah",
+    "kramaalus": "Muring-muring",
+    "kramainggil": "Duka-duka",
+    "ngoko": "Muring-muring"
+  },
+  {
+    "indonesia": "Muntah",
+    "kramaalus": "Mutah",
+    "kramainggil": "Luntak",
+    "ngoko": "Mutah"
+  },
+  {
+    "indonesia": "Bahaya",
+    "kramaalus": "Mutawatos",
+    "kramainggil": "Mutawatos",
+    "ngoko": "Mutawatir"
+  },
+  {
+    "indonesia": "Membahayakan",
+    "kramaalus": "Mutawatosi",
+    "kramainggil": "Mutawatos",
+    "ngoko": "Mutawatiri"
+  },
+  {
+    "indonesia": "Membahayakan",
+    "kramaalus": "Mutawatosaken",
+    "kramainggil": "Mutawatosaken",
+    "ngoko": "Mutawatirake"
+  },
+  {
+    "indonesia": "Dan juga",
+    "kramaalus": "Miwah",
+    "kramainggil": "Miwah",
+    "ngoko": "Muwah"
+  },
+  {
+    "indonesia": "Negara",
+    "kramaalus": "Nagari",
+    "kramainggil": "Nagari",
+    "ngoko": "Nagara"
+  },
+  {
+    "indonesia": "Marah",
+    "kramaalus": "Srengen",
+    "kramainggil": "Duka",
+    "ngoko": "Nesu"
+  },
+  {
+    "indonesia": "Memarahi",
+    "kramaalus": "Nyrengeni",
+    "kramainggil": "Ndukani",
+    "ngoko": "Nesoni"
+  },
+  {
+    "indonesia": "Haus",
+    "kramaalus": "Ngelak",
+    "kramainggil": "Salit",
+    "ngoko": "Ngelak"
+  },
+  {
+    "indonesia": "Pusing",
+    "kramaalus": "Puyeng",
+    "kramainggil": "Puyeng",
+    "ngoko": "Ngelu"
+  },
+  {
+    "indonesia": "Mengabdi",
+    "kramaalus": "Ngenger",
+    "kramainggil": "Ngabdi",
+    "ngoko": "Ngenger"
+  },
+  {
+    "indonesia": "Tahu",
+    "kramaalus": "Ngertos",
+    "kramainggil": "Priksa",
+    "ngoko": "Ngerti"
+  },
+  {
+    "indonesia": "Pengertian",
+    "kramaalus": "Pangertosan",
+    "kramainggil": "Pangertosan",
+    "ngoko": "Pangerten"
+  },
+  {
+    "indonesia": "Ketahuan",
+    "kramaalus": "Kangertosan",
+    "kramainggil": "Kangertosan",
+    "ngoko": "Kangerten"
+  },
+  {
+    "indonesia": "Muda",
+    "kramaalus": "Enem",
+    "kramainggil": "Timur",
+    "ngoko": "Enom"
+  },
+  {
+    "indonesia": "Lalu",
+    "kramaalus": "Lajeng",
+    "kramainggil": "Lajeng",
+    "ngoko": "Nuli"
+  },
+  {
+    "indonesia": "Segera",
+    "kramaalus": "Tumunten",
+    "kramainggil": "Tumunten",
+    "ngoko": "Tumuli"
+  },
+  {
+    "indonesia": "Bergerak",
+    "kramaalus": "Ebah",
+    "kramainggil": "Ebah",
+    "ngoko": "Obah"
+  },
+  {
+    "indonesia": "Bakar",
+    "kramaalus": "Besmi",
+    "kramainggil": "Basmi",
+    "ngoko": "Obong"
+  },
+  {
+    "indonesia": "Terbakar",
+    "kramaalus": "Kabesmi",
+    "kramainggil": "Kabesmi",
+    "ngoko": "Kobong"
+  },
+  {
+    "indonesia": "Kebakaran",
+    "kramaalus": "Kabesmen",
+    "kramainggil": "Kabesmen",
+    "ngoko": "Kobongan"
+  },
+  {
+    "indonesia": "Dapat",
+    "kramaalus": "Angsal",
+    "kramainggil": "Angsal",
+    "ngoko": "Oleh"
+  },
+  {
+    "indonesia": "Boleh",
+    "kramaalus": "Angsal",
+    "kramainggil": "Kepareng",
+    "ngoko": "Oleh"
+  },
+  {
+    "indonesia": "Oleh-oleh",
+    "kramaalus": "Angsal-angsal",
+    "kramainggil": "Angsal-angsal",
+    "ngoko": "Oleh-oleh"
+  },
+  {
+    "indonesia": "Rumah",
+    "kramaalus": "Griya",
+    "kramainggil": "Dalem",
+    "ngoko": "Omah"
+  },
+  {
+    "indonesia": "Kawin",
+    "kramaalus": "Emah-emah",
+    "kramainggil": "Krama",
+    "ngoko": "Omah-omah"
+  },
+  {
+    "indonesia": "Pekarangan",
+    "kramaalus": "Pekawisan",
+    "kramainggil": "Pekawisan",
+    "ngoko": "Pomahan"
+  },
+  {
+    "indonesia": "Suami",
+    "kramaalus": "Sema",
+    "kramainggil": "Garwa",
+    "ngoko": "Somah"
+  },
+  {
+    "indonesia": "Minum",
+    "kramaalus": "Ombe",
+    "kramainggil": "Unjuk",
+    "ngoko": "Ombe"
+  },
+  {
+    "indonesia": "Minuman",
+    "kramaalus": "Omben-omben",
+    "kramainggil": "Unjukan",
+    "ngoko": "Omben-omben"
+  },
+  {
+    "indonesia": "Minum",
+    "kramaalus": "Ngombe",
+    "kramainggil": "Ngunjuk",
+    "ngoko": "Ngombe"
+  },
+  {
+    "indonesia": "Bicara",
+    "kramaalus": "Ginem",
+    "kramainggil": "Ngendika",
+    "ngoko": "Omong"
+  },
+  {
+    "indonesia": "Bercakap-cakap",
+    "kramaalus": "Gineman",
+    "kramainggil": "Ngendikan",
+    "ngoko": "Omong-omong"
+  },
+  {
+    "indonesia": "Upah",
+    "kramaalus": "Epah",
+    "kramainggil": "Epah",
+    "ngoko": "Opah"
+  },
+  {
+    "indonesia": "Bayaran",
+    "kramaalus": "Epahan",
+    "kramainggil": "Epahan",
+    "ngoko": "Opahan"
+  },
+  {
+    "indonesia": "Mengupah",
+    "kramaalus": "Ngepahi",
+    "kramainggil": "Ngepahi",
+    "ngoko": "Ngopahi"
+  },
+  {
+    "indonesia": "Ompong",
+    "kramaalus": "Ompong",
+    "kramainggil": "Dhaut",
+    "ngoko": "Ompong"
+  },
+  {
+    "indonesia": "Tidak",
+    "kramaalus": "Mboten",
+    "kramainggil": "Mboten",
+    "ngoko": "Ora"
+  },
+  {
+    "indonesia": "Tidak mungkin",
+    "kramaalus": "Mboten-mbotenipun",
+    "kramainggil": "Mboten-mbotenipun",
+    "ngoko": "Ora-orane"
+  },
+  {
+    "indonesia": "Sempit",
+    "kramaalus": "Ripak",
+    "kramainggil": "Ripak",
+    "ngoko": "Rupak"
+  },
+  {
+    "indonesia": "Rusak",
+    "kramaalus": "Risak",
+    "kramainggil": "Risak",
+    "ngoko": "Rusak"
+  },
+  {
+    "indonesia": "Rusuh",
+    "kramaalus": "Resah",
+    "kramainggil": "Resah",
+    "ngoko": "Rusuh"
+  },
+  {
+    "indonesia": "Menganggu",
+    "kramaalus": "Ngresahi",
+    "kramainggil": "Ngresahi",
+    "ngoko": "Ngrusuhi"
+  },
+  {
+    "indonesia": "Sabuk",
+    "kramaalus": "Sabuk",
+    "kramainggil": "Paningset",
+    "ngoko": "Sabuk"
+  },
+  {
+    "indonesia": "Sanggup",
+    "kramaalus": "Sagah",
+    "kramainggil": "Sagah",
+    "ngoko": "Saguh"
+  },
+  {
+    "indonesia": "Sekarang",
+    "kramaalus": "Sakmenika",
+    "kramainggil": "Sakmenika",
+    "ngoko": "Saiki"
+  },
+  {
+    "indonesia": "Melayani",
+    "kramaalus": "Saji",
+    "kramainggil": "Caos",
+    "ngoko": "Saji"
+  },
+  {
+    "indonesia": "Sajian",
+    "kramaalus": "Sajen",
+    "kramainggil": "Caosan",
+    "ngoko": "Sajen"
+  },
+  {
+    "indonesia": "Dari",
+    "kramaalus": "Saking",
+    "kramainggil": "Saking",
+    "ngoko": "Saka"
+  },
+  {
+    "indonesia": "Salah",
+    "kramaalus": "Lepat",
+    "kramainggil": "Lepat",
+    "ngoko": "Salah"
+  },
+  {
+    "indonesia": "Ganti pakaian",
+    "kramaalus": "Gantos",
+    "kramainggil": "Santun",
+    "ngoko": "Salin"
+  },
+  {
+    "indonesia": "Mengganti",
+    "kramaalus": "Nggantosi",
+    "kramainggil": "Nggantosi",
+    "ngoko": "Nyalini"
+  },
+  {
+    "indonesia": "Berganti-ganti",
+    "kramaalus": "Gantos-gantos",
+    "kramainggil": "Gantos-gantos",
+    "ngoko": "Salin-salin"
+  },
+  {
+    "indonesia": "Sambung",
+    "kramaalus": "Sambet",
+    "kramainggil": "Sambet",
+    "ngoko": "Sambung"
+  },
+  {
+    "indonesia": "Berhubungan",
+    "kramaalus": "Sesambetan",
+    "kramainggil": "Sesambetan",
+    "ngoko": "Sesambungan"
+  },
+  {
+    "indonesia": "Segala sesuatu",
+    "kramaalus": "Samukawis",
+    "kramainggil": "Samukawis",
+    "ngoko": "Samubarang"
+  },
+  {
+    "indonesia": "Angkat",
+    "kramaalus": "Sanggi",
+    "kramainggil": "Sanggi",
+    "ngoko": "Sangga"
+  },
+  {
+    "indonesia": "Siapa",
+    "kramaalus": "Sinten",
+    "kramainggil": "Sinten",
+    "ngoko": "Sapa"
+  },
+  {
+    "indonesia": "Sapi",
+    "kramaalus": "Lembu",
+    "kramainggil": "Lembu",
+    "ngoko": "Sapi"
+  },
+  {
+    "indonesia": "Serba",
+    "kramaalus": "Sarwi",
+    "kramainggil": "Sarwi",
+    "ngoko": "Sarwa"
+  },
+  {
+    "indonesia": "Bulan",
+    "kramaalus": "Wulan",
+    "kramainggil": "Wulan",
+    "ngoko": "Sasi"
+  },
+  {
+    "indonesia": "Berbulan-bulan",
+    "kramaalus": "Wewulanan",
+    "kramainggil": "Wewulanan",
+    "ngoko": "Sasen-sasen"
+  },
+  {
+    "indonesia": "Sawah",
+    "kramaalus": "Sabin",
+    "kramainggil": "Sabin",
+    "ngoko": "Sawah"
+  },
+  {
+    "indonesia": "Persawahan",
+    "kramaalus": "Pesabinan",
+    "kramainggil": "Pesabinan",
+    "ngoko": "Pesawahan"
+  },
+  {
+    "indonesia": "Satu",
+    "kramaalus": "Satunggal",
+    "kramainggil": "Satunggal",
+    "ngoko": "Siji"
+  },
+  {
+    "indonesia": "Sebar benih padi",
+    "kramaalus": "Dhawah",
+    "kramainggil": "Dhawah",
+    "ngoko": "Sebar"
+  },
+  {
+    "indonesia": "Menyebar benih",
+    "kramaalus": "Ndhawahaken",
+    "kramainggil": "Ndhawahaken",
+    "ngoko": "Nyebar"
+  },
+  {
+    "indonesia": "Mengatakan",
+    "kramaalus": "Sebat",
+    "kramainggil": "Sebat",
+    "ngoko": "Sebut"
+  },
+  {
+    "indonesia": "Menyebutkan",
+    "kramaalus": "Nyebat",
+    "kramainggil": "Nyebat",
+    "ngoko": "Nyebut"
+  },
+  {
+    "indonesia": "Nama",
+    "kramaalus": "Jenenng",
+    "kramainggil": "Asma",
+    "ngoko": "Jeneng"
+  },
+  {
+    "indonesia": "Sebentar",
+    "kramaalus": "Sekedhap",
+    "kramainggil": "Sekedhap",
+    "ngoko": "Sedhela"
+  },
+  {
+    "indonesia": "Cukup",
+    "kramaalus": "Cekap",
+    "kramainggil": "Cekap",
+    "ngoko": "Sedheng"
+  },
+  {
+    "indonesia": "Cukupan",
+    "kramaalus": "Cekapan",
+    "kramainggil": "Cekapan",
+    "ngoko": "Sedhengan"
+  },
+  {
+    "indonesia": "Nasi",
+    "kramaalus": "Sekul",
+    "kramainggil": "Sekul",
+    "ngoko": "Sega"
+  },
+  {
+    "indonesia": "Baru senang makan",
+    "kramaalus": "Sumekul",
+    "kramainggil": "Sumekul",
+    "ngoko": "Sumega"
+  },
+  {
+    "indonesia": "Laut",
+    "kramaalus": "Seganten",
+    "kramainggil": "Seganten",
+    "ngoko": "Segara"
+  },
+  {
+    "indonesia": "Lain",
+    "kramaalus": "Sanes",
+    "kramainggil": "Sanes",
+    "ngoko": "Seje"
+  },
+  {
+    "indonesia": "Lain-lain",
+    "kramaalus": "Sanes-sanes",
+    "kramainggil": "Sanes-sanes",
+    "ngoko": "Seje-seje"
+  },
+  {
+    "indonesia": "Dari",
+    "kramaalus": "Saking",
+    "kramainggil": "Saking",
+    "ngoko": "Saka"
+  },
+  {
+    "indonesia": "Dua puluh lima",
+    "kramaalus": "Selangkung",
+    "kramainggil": "Selangkung",
+    "ngoko": "Selawe"
+  },
+  {
+    "indonesia": "Sekian itu",
+    "kramaalus": "Semanten",
+    "kramainggil": "Semanten",
+    "ngoko": "Semana"
+  },
+  {
+    "indonesia": "Menangguhkan",
+    "kramaalus": "Semados",
+    "kramainggil": "Semados",
+    "ngoko": "Semaya"
+  },
+  {
+    "indonesia": "Menyembelih",
+    "kramaalus": "Pragat",
+    "kramainggil": "Pragat",
+    "ngoko": "Sambelih"
+  },
+  {
+    "indonesia": "Sebesar itu",
+    "kramaalus": "Semanten",
+    "kramainggil": "Semanten",
+    "ngoko": "Semono"
+  },
+  {
+    "indonesia": "Sendok",
+    "kramaalus": "Sendhok",
+    "kramainggil": "Lantaran",
+    "ngoko": "Sendhok"
+  },
+  {
+    "indonesia": "Senang",
+    "kramaalus": "Remen",
+    "kramainggil": "Tresna",
+    "ngoko": "Seneng"
+  },
+  {
+    "indonesia": "Menyenangkan",
+    "kramaalus": "Ngremenaken",
+    "kramainggil": "Ngremenaken",
+    "ngoko": "Nyenengake"
+  },
+  {
+    "indonesia": "Mencintai",
+    "kramaalus": "Ngremeni",
+    "kramainggil": "Nresnani",
+    "ngoko": "Nyenengi"
+  },
+  {
+    "indonesia": "Separo",
+    "kramaalus": "Sepalih",
+    "kramainggil": "Sepalih",
+    "ngoko": "Separo"
+  },
+  {
+    "indonesia": "Membagi dua",
+    "kramaalus": "Malih",
+    "kramainggil": "Malih",
+    "ngoko": "Maro"
+  },
+  {
+    "indonesia": "Masing-masing",
+    "kramaalus": "Nyepalih",
+    "kramainggil": "Nyepalih",
+    "ngoko": "Nyeparo"
+  },
+  {
+    "indonesia": "Sepi",
+    "kramaalus": "Sepen",
+    "kramainggil": "Sepen",
+    "ngoko": "Sepi"
+  },
+  {
+    "indonesia": "Menyepi",
+    "kramaalus": "Nyepen",
+    "kramainggil": "Nyepen",
+    "ngoko": "Nyepi"
+  },
+  {
+    "indonesia": "Tanpa pamrih",
+    "kramaalus": "Sepen ing pamrih",
+    "kramainggil": "Sepi ing pamrih",
+    "ngoko": "Sepi ing pamrih"
+  },
+  {
+    "indonesia": "Sejak dahulu",
+    "kramaalus": "Seprika",
+    "kramainggil": "Seprika",
+    "ngoko": "Seprana"
+  },
+  {
+    "indonesia": "Sampai sekarang",
+    "kramaalus": "Sepriki",
+    "kramainggil": "Sepriki",
+    "ngoko": "Seprene"
+  },
+  {
+    "indonesia": "Keras (suara)",
+    "kramaalus": "Sora",
+    "kramainggil": "Sora",
+    "ngoko": "Seru"
+  },
+  {
+    "indonesia": "Besok",
+    "kramaalus": "Benjang",
+    "kramainggil": "Benjing",
+    "ngoko": "Sesok"
+  },
+  {
+    "indonesia": "Besok pagi",
+    "kramaalus": "Benjang enjang",
+    "kramainggil": "Benjing enjing",
+    "ngoko": "Sesuk esuk"
+  },
+  {
+    "indonesia": "25 sen",
+    "kramaalus": "Setangsul",
+    "kramainggil": "Setangsul",
+    "ngoko": "setali"
+  },
+  {
+    "indonesia": "Sedikit",
+    "kramaalus": "Sekedhik",
+    "kramainggil": "Sekedhik",
+    "ngoko": "Sethitik"
+  },
+  {
+    "indonesia": "Jadi",
+    "kramaalus": "Siyos",
+    "kramainggil": "Estu",
+    "ngoko": "Sido"
+  },
+  {
+    "indonesia": "Satu",
+    "kramaalus": "Setunggal",
+    "kramainggil": "Setunggal",
+    "ngoko": "Siji"
+  },
+  {
+    "indonesia": "Kaki",
+    "kramaalus": "Suku",
+    "kramainggil": "Sampeyan",
+    "ngoko": "Sikil"
+  },
+  {
+    "indonesia": "Siku",
+    "kramaalus": "Sikut",
+    "kramainggil": "Siku",
+    "ngoko": "Sikut"
+  },
+  {
+    "indonesia": "Pinjam",
+    "kramaalus": "Sambut",
+    "kramainggil": "Pundhut",
+    "ngoko": "Silih"
+  },
+  {
+    "indonesia": "Pinjaman",
+    "kramaalus": "Sambutan",
+    "kramainggil": "Ampilan",
+    "ngoko": "Silihan"
+  },
+  {
+    "indonesia": "Meminjam",
+    "kramaalus": "Nyambut",
+    "kramainggil": "Ngampil",
+    "ngoko": "Nyilih"
+  },
+  {
+    "indonesia": "Yang",
+    "kramaalus": "Ingkang",
+    "kramainggil": "Ingkang",
+    "ngoko": "Sing"
+  },
+  {
+    "indonesia": "Selamat",
+    "kramaalus": "Wilujeng",
+    "kramainggil": "Sugeng",
+    "ngoko": "Slamet"
+  },
+  {
+    "indonesia": "Selamatan",
+    "kramaalus": "Wilujengan",
+    "kramainggil": "Sugengan",
+    "ngoko": "Slametan"
+  },
+  {
+    "indonesia": "Kadang-kadang",
+    "kramaalus": "Asring",
+    "kramainggil": "Asring",
+    "ngoko": "Sok"
+  },
+  {
+    "indonesia": "Mungkin",
+    "kramaalus": "Sok ugi",
+    "kramainggil": "Sok ugi",
+    "ngoko": "Sok uga"
+  },
+  {
+    "indonesia": "Sore",
+    "kramaalus": "Sonten",
+    "kramainggil": "Sonten",
+    "ngoko": "Sore"
+  },
+  {
+    "indonesia": "Pada sore hari",
+    "kramaalus": "Sonten-sonten",
+    "kramainggil": "Sonten-sonten",
+    "ngoko": "Sore-sore"
+  },
+  {
+    "indonesia": "Sabar",
+    "kramaalus": "Srantos",
+    "kramainggil": "Srantos",
+    "ngoko": "Sranta"
+  },
+  {
+    "indonesia": "Tunggu",
+    "kramaalus": "Srantos",
+    "kramainggil": "Srantos",
+    "ngoko": "Sranti"
+  },
+  {
+    "indonesia": "Marah",
+    "kramaalus": "Srengen",
+    "kramainggil": "Duka",
+    "ngoko": "Srengen"
+  },
+  {
+    "indonesia": "Memarahi",
+    "kramaalus": "Nyrengeni",
+    "kramainggil": "Ndukani",
+    "ngoko": "Nyrengeni"
+  },
+  {
+    "indonesia": "Matahari",
+    "kramaalus": "Srengenge",
+    "kramainggil": "Surya",
+    "ngoko": "Srengenge"
+  },
+  {
+    "indonesia": "Jamuan",
+    "kramaalus": "Segah",
+    "kramainggil": "Sugata",
+    "ngoko": "Suguh"
+  },
+  {
+    "indonesia": "Jamuan",
+    "kramaalus": "Segahan",
+    "kramainggil": "Pasugatan",
+    "ngoko": "Suguhan"
+  },
+  {
+    "indonesia": "Menjamu",
+    "kramaalus": "Nyegah",
+    "kramainggil": "Nyugata",
+    "ngoko": "Nyuguh"
+  },
+  {
+    "indonesia": "Rumput",
+    "kramaalus": "Rumput",
+    "kramainggil": "Rumput",
+    "ngoko": "Suket"
+  },
+  {
+    "indonesia": "Tahu",
+    "kramaalus": "Sumerep",
+    "kramainggil": "Priksa",
+    "ngoko": "Sumurup"
+  },
+  {
+    "indonesia": "Khitan",
+    "kramaalus": "Sunat",
+    "kramainggil": "Tetes",
+    "ngoko": "Sunat"
+  },
+  {
+    "indonesia": "Supaya",
+    "kramaalus": "Supados",
+    "kramainggil": "Supados",
+    "ngoko": "Supaya"
+  },
+  {
+    "indonesia": "Arti",
+    "kramaalus": "Suraos",
+    "kramainggil": "Suraos",
+    "ngoko": "Surasa"
+  },
+  {
+    "indonesia": "Sirih",
+    "kramaalus": "Sedhah",
+    "kramainggil": "Sedhah",
+    "ngoko": "Suruh"
+  },
+  {
+    "indonesia": "Mengundang",
+    "kramaalus": "Nyedahi",
+    "kramainggil": "Nyedahi",
+    "ngoko": "Nyuruhi"
+  },
+  {
+    "indonesia": "Petang",
+    "kramaalus": "Serap",
+    "kramainggil": "Serap",
+    "ngoko": "Surup"
+  },
+  {
+    "indonesia": "Matahari terbenam",
+    "kramaalus": "Serap surya",
+    "kramainggil": "Serap surya",
+    "ngoko": "Surup srengenge"
+  },
+  {
+    "indonesia": "Sampai petang",
+    "kramaalus": "Keserapan",
+    "kramainggil": "Keserapan",
+    "ngoko": "Kesurupan"
+  },
+  {
+    "indonesia": "Susah",
+    "kramaalus": "Sisah",
+    "kramainggil": "Sekel",
+    "ngoko": "Susah"
+  },
+  {
+    "indonesia": "Susah hati",
+    "kramaalus": "sisah manah",
+    "kramainggil": "Sekel penggalih",
+    "ngoko": "Susah ati"
+  },
+  {
+    "indonesia": "Susu",
+    "kramaalus": "Susu",
+    "kramainggil": "Pembayun",
+    "ngoko": "Susu"
+  },
+  {
+    "indonesia": "Menyusu",
+    "kramaalus": "Nyesep",
+    "kramainggil": "Nyesep",
+    "ngoko": "Nusu"
+  },
+  {
+    "indonesia": "Masih menyusu",
+    "kramaalus": "Sesepan",
+    "kramainggil": "Sesapan",
+    "ngoko": "Suson"
+  },
+  {
+    "indonesia": "Sugi",
+    "kramaalus": "Susur",
+    "kramainggil": "Penasar",
+    "ngoko": "Susur"
+  },
+  {
+    "indonesia": "Bersugi",
+    "kramaalus": "Susuran",
+    "kramainggil": "Penasaran",
+    "ngoko": "Susuran"
+  },
+  {
+    "indonesia": "Suara",
+    "kramaalus": "Suwantenan",
+    "kramainggil": "Suwantenan",
+    "ngoko": "Suwara"
+  },
+  {
+    "indonesia": "Menegur",
+    "kramaalus": "Nyuwanteni",
+    "kramainggil": "Nyuwanteni",
+    "ngoko": "Nyuwara"
+  },
+  {
+    "indonesia": "Surga",
+    "kramaalus": "Suwargi",
+    "kramainggil": "Suwargi",
+    "ngoko": "Suwarga"
+  },
+  {
+    "indonesia": "Lama",
+    "kramaalus": "Dangu",
+    "kramainggil": "Dangu",
+    "ngoko": "Suwe"
+  },
+  {
+    "indonesia": "Lama-kelamaan",
+    "kramaalus": "Dangu-dangu",
+    "kramainggil": "Dangu-dangu",
+    "ngoko": "Suwe-suwe"
+  },
+  {
+    "indonesia": "Teralu lama",
+    "kramaalus": "Kedangon",
+    "kramainggil": "Kedangon",
+    "ngoko": "Kesuwen"
+  },
+  {
+    "indonesia": "Membuat lama",
+    "kramaalus": "Ndedangu",
+    "kramainggil": "Ndedangu",
+    "ngoko": "Nyuweni"
+  },
+  {
+    "indonesia": "Subang",
+    "kramaalus": "Sengkang",
+    "kramainggil": "Sengkang",
+    "ngoko": "Suweng"
+  },
+  {
+    "indonesia": "Tahi",
+    "kramaalus": "Tinja",
+    "kramainggil": "Tinja",
+    "ngoko": "Tai"
+  },
+  {
+    "indonesia": "Saya",
+    "kramaalus": "Kula",
+    "kramainggil": "Dalem",
+    "ngoko": "Aku"
+  },
+  {
+    "indonesia": "Bertanya",
+    "kramaalus": "Taken",
+    "kramainggil": "Tangglet",
+    "ngoko": "Takon"
+  },
+  {
+    "indonesia": "Tali",
+    "kramaalus": "Tangsul",
+    "kramainggil": "Tangsul",
+    "ngoko": "Tali"
+  },
+  {
+    "indonesia": "Obat",
+    "kramaalus": "Jampi",
+    "kramainggil": "Usada",
+    "ngoko": "Tamba"
+  },
+  {
+    "indonesia": "Terima",
+    "kramaalus": "Tampi",
+    "kramainggil": "Tampi",
+    "ngoko": "Tampa"
+  },
+  {
+    "indonesia": "Tanam",
+    "kramaalus": "Tanem",
+    "kramainggil": "Tanem",
+    "ngoko": "Tandur"
+  },
+  {
+    "indonesia": "Tangan",
+    "kramaalus": "Tangan",
+    "kramainggil": "Asta",
+    "ngoko": "Tangan"
+  },
+  {
+    "indonesia": "Mengerjakan",
+    "kramaalus": "Nangani",
+    "kramainggil": "Ngasta",
+    "ngoko": "Nangani"
+  },
+  {
+    "indonesia": "Tanda tangan",
+    "kramaalus": "Tanda Tangan",
+    "kramainggil": "Tapak asta",
+    "ngoko": "Tanda tangan"
+  },
+  {
+    "indonesia": "Tetangga",
+    "kramaalus": "Tanggi",
+    "kramainggil": "Tanggi",
+    "ngoko": "Tangga"
+  },
+  {
+    "indonesia": "Para tetangga",
+    "kramaalus": "Tangga terpilih",
+    "kramainggil": "Tangga terpilih",
+    "ngoko": "Tangga teparo"
+  },
+  {
+    "indonesia": "Tanggung",
+    "kramaalus": "Tanggel",
+    "kramainggil": "Tanggel",
+    "ngoko": "Tanggung"
+  },
+  {
+    "indonesia": "Kurang banyak",
+    "kramaalus": "Ketanggelan",
+    "kramainggil": "Ketanggelan",
+    "ngoko": "Ketanggungan"
+  },
+  {
+    "indonesia": "Menanggung",
+    "kramaalus": "Nanggel",
+    "kramainggil": "Nanggel",
+    "ngoko": "Nanggung"
+  },
+  {
+    "indonesia": "Tanggung jawab",
+    "kramaalus": "Tanggel jawab",
+    "kramainggil": "Tanggel jawab",
+    "ngoko": "Tanggung jawab"
+  },
+  {
+    "indonesia": "Bangun",
+    "kramaalus": "Tangi",
+    "kramainggil": "Wungu",
+    "ngoko": "Tangi"
+  },
+  {
+    "indonesia": "Menangis",
+    "kramaalus": "Tangis",
+    "kramainggil": "Muwun",
+    "ngoko": "Tangis"
+  },
+  {
+    "indonesia": "Tapal",
+    "kramaalus": "Tapel",
+    "kramainggil": "Raketan",
+    "ngoko": "Tapel"
+  },
+  {
+    "indonesia": "Kain wanita",
+    "kramaalus": "tapih",
+    "kramainggil": "Sinjang",
+    "ngoko": "tapih"
+  },
+  {
+    "indonesia": "Tawar",
+    "kramaalus": "Taros",
+    "kramainggil": "Taros",
+    "ngoko": "Tari"
+  },
+  {
+    "indonesia": "Menawar",
+    "kramaalus": "Naros",
+    "kramainggil": "Naros",
+    "ngoko": "Nari"
+  },
+  {
+    "indonesia": "Pernah",
+    "kramaalus": "Nate",
+    "kramainggil": "Nate",
+    "ngoko": "Tau"
+  },
+  {
+    "indonesia": "Tawar",
+    "kramaalus": "Tawi",
+    "kramainggil": "Tawi",
+    "ngoko": "Tawa"
+  },
+  {
+    "indonesia": "Tebu",
+    "kramaalus": "Rosan",
+    "kramainggil": "Rosan",
+    "ngoko": "Tebu"
+  },
+  {
+    "indonesia": "Datang",
+    "kramaalus": "Dhateng",
+    "kramainggil": "Rawuh",
+    "ngoko": "Teka"
+  },
+  {
+    "indonesia": "Kedatangan",
+    "kramaalus": "Kedhatengan",
+    "kramainggil": "Kerawuhan",
+    "ngoko": "Katekan"
+  },
+  {
+    "indonesia": "Tiba",
+    "kramaalus": "Dumugi",
+    "kramainggil": "Dumugi",
+    "ngoko": "Tekan"
+  },
+  {
+    "indonesia": "Kesampaian",
+    "kramaalus": "Kadumungen",
+    "kramainggil": "Kadumungen",
+    "ngoko": "Katekan"
+  },
+  {
+    "indonesia": "Tongkat",
+    "kramaalus": "Teken",
+    "kramainggil": "Lantaran",
+    "ngoko": "Teken"
+  },
+  {
+    "indonesia": "Tiga",
+    "kramaalus": "Tiga",
+    "kramainggil": "Tiga",
+    "ngoko": "Telu"
+  },
+  {
+    "indonesia": "Tembaga",
+    "kramaalus": "Tembagi",
+    "kramainggil": "Tembagi",
+    "ngoko": "Tembaga"
+  },
+  {
+    "indonesia": "Lagu",
+    "kramaalus": "Sekar",
+    "kramainggil": "Sekar",
+    "ngoko": "Tembang"
+  },
+  {
+    "indonesia": "Menyanyi",
+    "kramaalus": "Nyekar",
+    "kramainggil": "Nyekar",
+    "ngoko": "Nembang"
+  },
+  {
+    "indonesia": "Sungguh",
+    "kramaalus": "Estu",
+    "kramainggil": "Estu",
+    "ngoko": "Temen"
+  },
+  {
+    "indonesia": "Temu",
+    "kramaalus": "Panggih",
+    "kramainggil": "Panggih",
+    "ngoko": "Temu"
+  },
+  {
+    "indonesia": "Bertemu",
+    "kramaalus": "Kepanggih",
+    "kramainggil": "Kepanggih",
+    "ngoko": "Ketemu"
+  },
+  {
+    "indonesia": "Kenal",
+    "kramaalus": "Tepang",
+    "kramainggil": "Tepang",
+    "ngoko": "Tepung"
+  },
+  {
+    "indonesia": "Berkenalan",
+    "kramaalus": "Tetepangan",
+    "kramainggil": "Tetepangan",
+    "ngoko": "Tetepungan"
+  },
+  {
+    "indonesia": "Terus",
+    "kramaalus": "Lajeng",
+    "kramainggil": "Lajeng",
+    "ngoko": "Terus"
+  },
+  {
+    "indonesia": "Supit",
+    "kramaalus": "Supit",
+    "kramainggil": "Supit",
+    "ngoko": "Tetak"
+  },
+  {
+    "indonesia": "Jatuh",
+    "kramaalus": "Dhawah",
+    "kramainggil": "Dhawah",
+    "ngoko": "Tibo"
+  },
+  {
+    "indonesia": "Berkunjung",
+    "kramaalus": "Tuwi",
+    "kramainggil": "Sowan",
+    "ngoko": "Tilik"
+  },
+  {
+    "indonesia": "Tinggal",
+    "kramaalus": "Tilar",
+    "kramainggil": "Tilar",
+    "ngoko": "Tinggal"
+  },
+  {
+    "indonesia": "Lihat",
+    "kramaalus": "Tingal",
+    "kramainggil": "Priksa",
+    "ngoko": "Tonton"
+  },
+  {
+    "indonesia": "Pertunjukan",
+    "kramaalus": "Tetingalan",
+    "kramainggil": "Tetingalan",
+    "ngoko": "Tontonan"
+  },
+  {
+    "indonesia": "Terlihat",
+    "kramaalus": "Ketingal",
+    "kramainggil": "Ketingal",
+    "ngoko": "Katon"
+  },
+  {
+    "indonesia": "Memberitahukan",
+    "kramaalus": "Tedah",
+    "kramainggil": "Pring priksa",
+    "ngoko": "Tuduh"
+  },
+  {
+    "indonesia": "Membeli",
+    "kramaalus": "Tumbas",
+    "kramainggil": "Mundhut",
+    "ngoko": "Tuku"
+  },
+  {
+    "indonesia": "Tulis",
+    "kramaalus": "Serat",
+    "kramainggil": "Serat",
+    "ngoko": "Tulis"
+  },
+  {
+    "indonesia": "Tulisan",
+    "kramaalus": "Seratan",
+    "kramainggil": "Seratan",
+    "ngoko": "Tulisan"
+  },
+  {
+    "indonesia": "Kutu Rambut",
+    "kramaalus": "Tumo",
+    "kramainggil": "Itik",
+    "ngoko": "Tumo"
+  },
+  {
+    "indonesia": "Tombak",
+    "kramaalus": "Waos",
+    "kramainggil": "Watangan",
+    "ngoko": "Tumbak"
+  },
+  {
+    "indonesia": "Rugi",
+    "kramaalus": "Tuni",
+    "kramainggil": "Tuni",
+    "ngoko": "Tuna"
+  },
+  {
+    "indonesia": "Tunggal",
+    "kramaalus": "Tunggil",
+    "kramainggil": "Tunggil",
+    "ngoko": "Tunggal"
+  },
+  {
+    "indonesia": "Satu",
+    "kramaalus": "Setunggal",
+    "kramainggil": "Setunggal",
+    "ngoko": "Siji"
+  },
+  {
+    "indonesia": "Naik",
+    "kramaalus": "Tumpak",
+    "kramainggil": "Titih",
+    "ngoko": "Tunggang"
+  },
+  {
+    "indonesia": "Kendaraan",
+    "kramaalus": "Tumpakan",
+    "kramainggil": "Titihan",
+    "ngoko": "Tunggangan"
+  },
+  {
+    "indonesia": "Tunggu",
+    "kramaalus": "Tengga",
+    "kramainggil": "Tengga",
+    "ngoko": "Tunggu"
+  },
+  {
+    "indonesia": "Tidur",
+    "kramaalus": "Tilem",
+    "kramainggil": "Sare",
+    "ngoko": "Turu"
+  },
+  {
+    "indonesia": "Berbaring-baring",
+    "kramaalus": "Tileman",
+    "kramainggil": "Sarean",
+    "ngoko": "Turon"
+  },
+  {
+    "indonesia": "Turun",
+    "kramaalus": "Turun",
+    "kramainggil": "Tedhak",
+    "ngoko": "Turun"
+  },
+  {
+    "indonesia": "Tumbuk padi",
+    "kramaalus": "Gentang",
+    "kramainggil": "Gentang",
+    "ngoko": "Tutu"
+  },
+  {
+    "indonesia": "Menumbuk padi",
+    "kramaalus": "Nggentang",
+    "kramainggil": "Nggentang",
+    "ngoko": "nutu"
+  },
+  {
+    "indonesia": "Berkata",
+    "kramaalus": "Sanjang",
+    "kramainggil": "Sanjang",
+    "ngoko": "Tutur"
+  },
+  {
+    "indonesia": "Tua",
+    "kramaalus": "Sepuh",
+    "kramainggil": "Yuswa",
+    "ngoko": "Tuwa"
+  },
+  {
+    "indonesia": "Bersikap tua",
+    "kramaalus": "Nyepuhi",
+    "kramainggil": "Nyepuhi",
+    "ngoko": "Nuwani"
+  },
+  {
+    "indonesia": "Sesepuh",
+    "kramaalus": "Sesepuh",
+    "kramainggil": "Sesepuh",
+    "ngoko": "Tetuwa"
+  },
+  {
+    "indonesia": "Kira-kira",
+    "kramaalus": "Udakawis",
+    "kramainggil": "Udakawis",
+    "ngoko": "Udakara"
+  },
+  {
+    "indonesia": "Hujan",
+    "kramaalus": "Jawah",
+    "kramainggil": "Jawah",
+    "ngoko": "Udan"
+  },
+  {
+    "indonesia": "Waktu hujan",
+    "kramaalus": "Jawah-jawah",
+    "kramainggil": "Jawah-jawah",
+    "ngoko": "Udan-udan"
+  },
+  {
+    "indonesia": "Kehujanan",
+    "kramaalus": "Kejawahan",
+    "kramainggil": "Kejawahan",
+    "ngoko": "Kodanan"
+  },
+  {
+    "indonesia": "Kendor",
+    "kramaalus": "Udhar",
+    "kramainggil": "Lukar",
+    "ngoko": "Udhar"
+  },
+  {
+    "indonesia": "Turun",
+    "kramaalus": "Andhap",
+    "kramainggil": "Andhap",
+    "ngoko": "Udhun"
+  },
+  {
+    "indonesia": "Turun ",
+    "kramaalus": "Mandhap",
+    "kramainggil": "Mandhap",
+    "ngoko": "Mudhun"
+  },
+  {
+    "indonesia": "Juga",
+    "kramaalus": "Ugi",
+    "kramainggil": "Ugi",
+    "ngoko": "Uga"
+  },
+  {
+    "indonesia": "Janji",
+    "kramaalus": "Ujar",
+    "kramainggil": "Punagi",
+    "ngoko": "Ujar"
+  },
+  {
+    "indonesia": "Berjanji untuk",
+    "kramaalus": "Ngujari",
+    "kramainggil": "Munageni",
+    "ngoko": "Ngujari"
+  },
+  {
+    "indonesia": "Ular",
+    "kramaalus": "Sawer",
+    "kramainggil": "Sawer",
+    "ngoko": "Ula"
+  },
+  {
+    "indonesia": "Raut muka",
+    "kramaalus": "Ulat",
+    "kramainggil": "Pasyuran",
+    "ngoko": "Ulat"
+  },
+  {
+    "indonesia": "Undangan",
+    "kramaalus": "Ulem",
+    "kramainggil": "Atur",
+    "ngoko": "Ulem"
+  },
+  {
+    "indonesia": "Mengundang",
+    "kramaalus": "Ngulemi",
+    "kramainggil": "Ngaturi",
+    "ngoko": "Ngulemi"
+  },
+  {
+    "indonesia": "Pulang",
+    "kramaalus": "Mantuk",
+    "kramainggil": "Kundur",
+    "ngoko": "Muleh"
+  },
+  {
+    "indonesia": "Ingus",
+    "kramaalus": "Umbel",
+    "kramainggil": "Gadhing",
+    "ngoko": "Umbel"
+  },
+  {
+    "indonesia": "Umur",
+    "kramaalus": "Umur",
+    "kramainggil": "Yuswa",
+    "ngoko": "Umur"
+  },
+  {
+    "indonesia": "Dewasa",
+    "kramaalus": "Wis umur",
+    "kramainggil": "Sampun yuswa",
+    "ngoko": "Wis umur"
+  },
+  {
+    "indonesia": "Panggil",
+    "kramaalus": "Timbal",
+    "kramainggil": "Atur",
+    "ngoko": "Undang"
+  },
+  {
+    "indonesia": "Memanggil",
+    "kramaalus": "Nimbali",
+    "kramainggil": "Ngaturi",
+    "ngoko": "Ngundang"
+  },
+  {
+    "indonesia": "Tambah",
+    "kramaalus": "Indhak",
+    "kramainggil": "Indhak",
+    "ngoko": "Undhak"
+  },
+  {
+    "indonesia": "Tambahan",
+    "kramaalus": "Indhakan",
+    "kramainggil": "Indhakan",
+    "ngoko": "Undhakan"
+  },
+  {
+    "indonesia": "Naik",
+    "kramaalus": "Minggah",
+    "kramainggil": "Minggah",
+    "ngoko": "Munggah"
+  },
+  {
+    "indonesia": "Tanjakan",
+    "kramaalus": "inggah-inggahan",
+    "kramainggil": "Inggah-inggahan",
+    "ngoko": "Unggah-unggahan"
+  },
+  {
+    "indonesia": "Belakang",
+    "kramaalus": "Pengker",
+    "kramainggil": "Pengker",
+    "ngoko": "Ungkur"
+  },
+  {
+    "indonesia": "Membelakang",
+    "kramaalus": "Mengker",
+    "kramainggil": "Mengker",
+    "ngoko": "mungkur"
+  },
+  {
+    "indonesia": "Bunyi",
+    "kramaalus": "Ungel",
+    "kramainggil": "Ungel",
+    "ngoko": "Uni"
+  },
+  {
+    "indonesia": "Bersuara",
+    "kramaalus": "Mungel",
+    "kramainggil": "Mungel",
+    "ngoko": "Muni"
+  },
+  {
+    "indonesia": "Ungkapan",
+    "kramaalus": "Ungel-ungelan",
+    "kramainggil": "Ungel-ungelan",
+    "ngoko": "Unen-unen"
+  },
+  {
+    "indonesia": "Gigi",
+    "kramaalus": "Waos",
+    "kramainggil": "Waja",
+    "ngoko": "Untu"
+  },
+  {
+    "indonesia": "Pelihara",
+    "kramaalus": "Upakawis",
+    "kramainggil": "Upakawis",
+    "ngoko": "Upakara"
+  },
+  {
+    "indonesia": "Memelihara",
+    "kramaalus": "Nggegasang",
+    "kramainggil": "Nggegasang",
+    "ngoko": "Ngurip-ngurip"
+  },
+  {
+    "indonesia": "Penghidupan",
+    "kramaalus": "Panggesangan",
+    "kramainggil": "Panggesangan",
+    "ngoko": "Panguripan"
+  },
+  {
+    "indonesia": "Utama",
+    "kramaalus": "Utami",
+    "kramainggil": "Utami",
+    "ngoko": "Utama"
+  },
+  {
+    "indonesia": "Pinjam",
+    "kramaalus": "Sambut",
+    "kramainggil": "Pundhut",
+    "ngoko": "Utang"
+  },
+  {
+    "indonesia": "Meminjam",
+    "kramaalus": "Nyambut",
+    "kramainggil": "Ngampil",
+    "ngoko": "Ngutang"
+  },
+  {
+    "indonesia": "Atau",
+    "kramaalus": "Utawi",
+    "kramainggil": "Utawi",
+    "ngoko": "Utawa"
+  },
+  {
+    "indonesia": "Garam",
+    "kramaalus": "Sarem",
+    "kramainggil": "Sarem",
+    "ngoko": "Uyah"
+  },
+  {
+    "indonesia": "Kencing",
+    "kramaalus": "Toyan",
+    "kramainggil": "Toyan",
+    "ngoko": "Uyuh"
+  },
+  {
+    "indonesia": "Baca",
+    "kramaalus": "Waos",
+    "kramainggil": "Waos",
+    "ngoko": "Waca"
+  },
+  {
+    "indonesia": "Membaca",
+    "kramaalus": "Maos",
+    "kramainggil": "Maos",
+    "ngoko": "Maca"
+  },
+  {
+    "indonesia": "Membacakan",
+    "kramaalus": "Maosaken",
+    "kramainggil": "Maosaken",
+    "ngoko": "Macakake"
+  },
+  {
+    "indonesia": "Bacaan",
+    "kramaalus": "Waosan",
+    "kramainggil": "Waosan",
+    "ngoko": "Waosan"
+  },
+  {
+    "indonesia": "Rahasia",
+    "kramaalus": "Wados",
+    "kramainggil": "Wados",
+    "ngoko": "Wadi"
+  },
+  {
+    "indonesia": "Perempuan",
+    "kramaalus": "Estri",
+    "kramainggil": "Putri",
+    "ngoko": "Wadon"
+  },
+  {
+    "indonesia": "Bersih",
+    "kramaalus": "Wahing",
+    "kramainggil": "Sigra",
+    "ngoko": "Wahing"
+  },
+  {
+    "indonesia": "Berani",
+    "kramaalus": "Wantun",
+    "kramainggil": "Wantun",
+    "ngoko": "Wani"
+  },
+  {
+    "indonesia": "Tertalu berani",
+    "kramaalus": "Kumawantun",
+    "kramainggil": "Kumawantun",
+    "ngoko": "Kumawani"
+  },
+  {
+    "indonesia": "Nasehat keras",
+    "kramaalus": "Wantos-wantos",
+    "kramainggil": "Wantos-wantos",
+    "ngoko": "Wanti-wanti"
+  },
+  {
+    "indonesia": "Sembuh",
+    "kramaalus": "Saras",
+    "kramainggil": "Dhangan",
+    "ngoko": "Waras"
+  },
+  {
+    "indonesia": "Kenyang",
+    "kramaalus": "Tuwuk",
+    "kramainggil": "Tuwuk",
+    "ngoko": "Wareg"
+  },
+  {
+    "indonesia": "Warisan",
+    "kramaalus": "Tilaran",
+    "kramainggil": "Pusaka",
+    "ngoko": "Warisan"
+  },
+  {
+    "indonesia": "Warung",
+    "kramaalus": "Wande",
+    "kramainggil": "Wande",
+    "ngoko": "Warung"
+  },
+  {
+    "indonesia": "Berkedai",
+    "kramaalus": "Mande",
+    "kramainggil": "Mande",
+    "ngoko": "Marung"
+  },
+  {
+    "indonesia": "Waspada",
+    "kramaalus": "Waspaos",
+    "kramainggil": "Waspaos",
+    "ngoko": "Waspada"
+  },
+  {
+    "indonesia": "Antara",
+    "kramaalus": "Watawis",
+    "kramainggil": "Watawis",
+    "ngoko": "Watara"
+  },
+  {
+    "indonesia": "Batu",
+    "kramaalus": "Sela",
+    "kramainggil": "Sela",
+    "ngoko": "Watu"
+  },
+  {
+    "indonesia": "Batuk",
+    "kramaalus": "Watuk",
+    "kramainggil": "Cekoh",
+    "ngoko": "Watuk"
+  },
+  {
+    "indonesia": "Menyebabkan batuk",
+    "kramaalus": "Matuki",
+    "kramainggil": "Nyekohi",
+    "ngoko": "Matuki"
+  },
+  {
+    "indonesia": "Minuman",
+    "kramaalus": "Benteran",
+    "kramainggil": "Unjukan",
+    "ngoko": "Wedang"
+  },
+  {
+    "indonesia": "Cat kain",
+    "kramaalus": "Celep",
+    "kramainggil": "Celep",
+    "ngoko": "Wedel"
+  },
+  {
+    "indonesia": "Mewarnai kain",
+    "kramaalus": "Nyelep",
+    "kramainggil": "Nyelep",
+    "ngoko": "Medel"
+  },
+  {
+    "indonesia": "Takut",
+    "kramaalus": "Ajrih",
+    "kramainggil": "Ajrih",
+    "ngoko": "Wedi"
+  },
+  {
+    "indonesia": "Hantu",
+    "kramaalus": "Memedos",
+    "kramainggil": "Memedos",
+    "ngoko": "Memedi"
+  },
+  {
+    "indonesia": "Kambing",
+    "kramaalus": "Menda",
+    "kramainggil": "Menda",
+    "ngoko": "Wedhus"
+  },
+  {
+    "indonesia": "Beri",
+    "kramaalus": "Suka",
+    "kramainggil": "Paring",
+    "ngoko": "Weh"
+  },
+  {
+    "indonesia": "Memberi",
+    "kramaalus": "Nyukani",
+    "kramainggil": "Maringi",
+    "ngoko": "Menehi"
+  },
+  {
+    "indonesia": "Waktu",
+    "kramaalus": "Wekdal",
+    "kramainggil": "Wekdal",
+    "ngoko": "Wektu"
+  },
+  {
+    "indonesia": "Malam",
+    "kramaalus": "Dalu",
+    "kramainggil": "Dalu",
+    "ngoko": "Wengi"
+  },
+  {
+    "indonesia": "Warna",
+    "kramaalus": "Werni",
+    "kramainggil": "Werni",
+    "ngoko": "Werna"
+  },
+  {
+    "indonesia": "Berita",
+    "kramaalus": "Wertos",
+    "kramainggil": "Wertos",
+    "ngoko": "Werta"
+  },
+  {
+    "indonesia": "Tahu",
+    "kramaalus": "Sumerep",
+    "kramainggil": "Priksa",
+    "ngoko": "Weruh"
+  },
+  {
+    "indonesia": "Pengetahuan",
+    "kramaalus": "Seserepan",
+    "kramainggil": "Seserepan",
+    "ngoko": "Kawruh"
+  },
+  {
+    "indonesia": "Mengetahui",
+    "kramaalus": "Nyemerepi",
+    "kramainggil": "Ngawuningani",
+    "ngoko": "Meruhi"
+  },
+  {
+    "indonesia": "Besi",
+    "kramaalus": "Tosan",
+    "kramainggil": "Tosan",
+    "ngoko": "Wesi"
+  },
+  {
+    "indonesia": "Pusaka",
+    "kramaalus": "Tosan aji",
+    "kramainggil": "Tosan aji",
+    "ngoko": "Wesi aji"
+  },
+  {
+    "indonesia": "Perut",
+    "kramaalus": "Padharan",
+    "kramainggil": "Padharan",
+    "ngoko": "Weteng"
+  },
+  {
+    "indonesia": "Hamil",
+    "kramaalus": "Mbobot",
+    "kramainggil": "Narbini",
+    "ngoko": "Meteng"
+  },
+  {
+    "indonesia": "Keluar",
+    "kramaalus": "Medal",
+    "kramainggil": "Miyos",
+    "ngoko": "Metu"
+  },
+  {
+    "indonesia": "Hari kelahiran",
+    "kramaalus": "Wedalan",
+    "kramainggil": "Wiyosan",
+    "ngoko": "Weton"
+  },
+  {
+    "indonesia": "Bicara",
+    "kramaalus": "Wicanten",
+    "kramainggil": "Ngendika",
+    "ngoko": "Wicara"
+  },
+  {
+    "indonesia": "Hitung",
+    "kramaalus": "Wical",
+    "kramainggil": "Wical",
+    "ngoko": "Wilang"
+  },
+  {
+    "indonesia": "Menghitung",
+    "kramaalus": "Mical",
+    "kramainggil": "Mical",
+    "ngoko": "Milang"
+  },
+  {
+    "indonesia": "Bilangan",
+    "kramaalus": "Wicalan",
+    "kramainggil": "Wicalan",
+    "ngoko": "Wilangan"
+  },
+  {
+    "indonesia": "Sudah",
+    "kramaalus": "Sampun",
+    "kramainggil": "Sampun",
+    "ngoko": "Wis"
+  },
+  {
+    "indonesia": "Orang",
+    "kramaalus": "Tiyang",
+    "kramainggil": "Priyantun",
+    "ngoko": "Wong"
+  },
+  {
+    "indonesia": "Sarung keris",
+    "kramaalus": "Sarungan",
+    "kramainggil": "Sarungan",
+    "ngoko": "Wrangka"
+  },
+  {
+    "indonesia": "Pusar",
+    "kramaalus": "Wudel",
+    "kramainggil": "Nabi",
+    "ngoko": "Wudel"
+  },
+  {
+    "indonesia": "Bisul",
+    "kramaalus": "Wudun",
+    "kramainggil": "Untar",
+    "ngoko": "Wudun"
+  },
+  {
+    "indonesia": "Sakit bisur",
+    "kramaalus": "Wudunen",
+    "kramainggil": "Untarem",
+    "ngoko": "Wudunen"
+  },
+  {
+    "indonesia": "Mengajar",
+    "kramaalus": "Wucal",
+    "kramainggil": "Wucal",
+    "ngoko": "Wulang"
+  },
+  {
+    "indonesia": "Pelajaran",
+    "kramaalus": "Wucalan",
+    "kramainggil": "Wucalan",
+    "ngoko": "Wulangan"
+  },
+  {
+    "indonesia": "Pembelajaran",
+    "kramaalus": "Pawucalan",
+    "kramainggil": "Pawucalan",
+    "ngoko": "Pawulangan"
+  },
+  {
+    "indonesia": "Buluh",
+    "kramaalus": "Welah",
+    "kramainggil": "Welah",
+    "ngoko": "Wuluh"
+  },
+  {
+    "indonesia": "Batal",
+    "kramaalus": "Sande",
+    "kramainggil": "Sande",
+    "ngoko": "Wurung"
+  },
+  {
+    "indonesia": "Membatalkan",
+    "kramaalus": "Nyandekaken",
+    "kramainggil": "Nyandekaken",
+    "ngoko": "Murungake"
+  },
+  {
+    "indonesia": "Tambah",
+    "kramaalus": "Wewah",
+    "kramainggil": "Wewah",
+    "ngoko": "Wuwuh"
+  },
+  {
+    "indonesia": "Menambahkan",
+    "kramaalus": "Mewahi",
+    "kramainggil": "Mewahi",
+    "ngoko": "Muwuhi"
+  },
+  {
+    "indonesia": "Tambahan",
+    "kramaalus": "Wewahan",
+    "kramainggil": "Wewahan",
+    "ngoko": "Wuwuhan"
+  },
+  {
+    "indonesia": "Ya",
+    "kramaalus": "Inggih",
+    "kramainggil": "Injih",
+    "ngoko": "Yo"
+  },
+  {
+    "indonesia": "Yaitu",
+    "kramaalus": "Inggih punika",
+    "kramainggil": "Injih pnika",
+    "ngoko": "Yoiku"
+  },
+  {
+    "indonesia": "Betu",
+    "kramaalus": "Yektos",
+    "kramainggil": "Yektos",
+    "ngoko": "Yekti"
+  },
+  {
+    "indonesia": "Sebetulnya",
+    "kramaalus": "Sayektos",
+    "kramainggil": "Sayektos",
+    "ngoko": "Sayekti"
+  }
+]

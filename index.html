@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplikasi Kamus Multilingual</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Kamus Indonesia - Jawa</h1>
+            <p>Pencarian terintegrasi dari berbagai sumber kamus.</p>
+        </header>
+
+        <main>
+            <div class="search-section">
+                <div class="input-wrapper">
+                    <input type="text" id="searchInput" placeholder="Ketik kata dalam bahasa Indonesia atau Jawa...">
+                    <button id="clearBtn" title="Hapus pencarian">&times;</button>
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <button class="filter-btn active" data-target="all">Semua Kamus</button>
+                <button class="filter-btn" data-target="kamus1">Kamus 1</button>
+                <button class="filter-btn" data-target="kamus2">Kamus 2</button>
+                <button class="filter-btn" data-target="kamus3">Kamus 3</button>
+            </div>
+
+            <div id="loadingIndicator" class="hidden">Memuat data kamus...</div>
+            <div id="resultsContainer" class="results-grid"></div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+  </html>
+  
